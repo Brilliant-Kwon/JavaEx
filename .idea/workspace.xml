@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Jan_17/conditional/IfElseEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,23 +23,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1243" />
+          <entry key="java" value="1811" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1243" />
+          <entry key="JAVA" value="1811" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -47,16 +47,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/CastingEx.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/BitShiftOperEx.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -94,11 +84,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="754">
-              <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+            <state relative-caret-position="-181">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -140,6 +148,8 @@
         <option value="$PROJECT_DIR$/src/Jan_17/conditional/IfElseEx.java" />
         <option value="$PROJECT_DIR$/src/Jan_17/conditional/IfElseEx2.java" />
         <option value="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx2.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx3.java" />
       </list>
     </option>
   </component>
@@ -150,9 +160,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="width" value="1219" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -216,7 +226,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547688456013" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547689982198" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -240,20 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SwitchEx">
-    <configuration name="ConsoleInputEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.consoleio.ConsoleInputEx" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan_17.consoleio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SwitchEx3">
     <configuration name="IfElseEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jan_17.conditional.IfElseEx" />
       <module name="Java_Ex" />
@@ -293,18 +290,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.conditional.SwitchEx2" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_17.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.conditional.SwitchEx3" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_17.conditional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ConsoleInputEx" />
       <item itemvalue="Application.IfElseEx" />
       <item itemvalue="Application.IfElseEx2" />
       <item itemvalue="Application.SwitchEx" />
+      <item itemvalue="Application.SwitchEx2" />
+      <item itemvalue="Application.SwitchEx3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwitchEx3" />
+        <item itemvalue="Application.SwitchEx2" />
         <item itemvalue="Application.SwitchEx" />
         <item itemvalue="Application.IfElseEx2" />
         <item itemvalue="Application.IfElseEx" />
-        <item itemvalue="Application.ConsoleInputEx" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +343,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547684639924</updated>
-      <workItem from="1547684644865" duration="3274000" />
+      <workItem from="1547684644865" duration="5104000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -327,14 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547687621611</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ver 1.00">
+      <created>1547688475832</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547688475832</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3274000" />
+    <option name="totallyTimeSpent" value="5104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="568" y="0" width="975" height="831" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -343,7 +375,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24918033" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25936198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
@@ -355,7 +387,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,8 +480,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        <state relative-caret-position="-181">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/conditional/SwitchEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
         </state>
       </provider>
     </entry>
