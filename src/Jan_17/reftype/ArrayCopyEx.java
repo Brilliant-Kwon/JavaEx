@@ -21,7 +21,7 @@ public class ArrayCopyEx {
                 ,source.length);//복사할 길이
 //        for(int i = 0;i<target2.length;i++)
         for(int i : target2)
-            System.out.println("tartget2 ["+i+"] : "+ target2[i]);
+            System.out.println("tartget2 : "+ i);
 
 
     }

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Jan_17/loop/WhileEx.java" line="12" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java" line="18" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java" afterDir="false" />
+    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="ver 1.00">
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +30,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6158" />
+          <entry key="java" value="7235" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6158" />
+          <entry key="JAVA" value="7235" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -49,33 +54,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/loop/GuguFor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/loop/StarEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/loop/JohnEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-425">
-              <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_17/reftype/EnumEx.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,29 +90,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="238">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/reftype/Week.java">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="234">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/reftype/StringEx.java">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="29" column="34" lean-forward="true" selection-start-line="29" selection-start-column="34" selection-end-line="29" selection-end-column="34" />
+            <state relative-caret-position="319">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -187,6 +192,11 @@
         <option value="$PROJECT_DIR$/src/Jan_17/reftype/MainArgs.java" />
         <option value="$PROJECT_DIR$/src/Jan_17/reftype/ArrayEx2.java" />
         <option value="$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem01.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem02.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem03.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem04.java" />
+        <option value="$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java" />
       </list>
     </option>
   </component>
@@ -197,9 +207,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="width" value="1219" />
-    <option name="height" value="1039" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -249,7 +259,7 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Jan_17" type="462c0819:PsiDirectoryNode" />
-              <item name="reftype" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice01_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -261,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547707559006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547710043057" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -285,13 +295,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayCopyEx">
-    <configuration name="ArrayCopyEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.reftype.ArrayCopyEx" />
+  <component name="RunManager" selected="Application.Problem05">
+    <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem01" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.reftype.*" />
+          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,13 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.reftype.ArrayEx" />
+    <configuration name="Problem02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem02" />
       <module name="Java_Ex" />
-      <option name="PROGRAM_PARAMETERS" value="10 20 30" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.reftype.*" />
+          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -313,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.reftype.ArrayEx2" />
+    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem03" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.reftype.*" />
+          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -326,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.reftype.EnumEx" />
+    <configuration name="Problem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem04" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.reftype.*" />
+          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,13 +348,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainArgs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.reftype.MainArgs" />
+    <configuration name="Problem05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem05" />
       <module name="Java_Ex" />
-      <option name="PROGRAM_PARAMETERS" value="java programming is fun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.reftype.*" />
+          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,19 +362,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.EnumEx" />
-      <item itemvalue="Application.ArrayEx" />
-      <item itemvalue="Application.MainArgs" />
-      <item itemvalue="Application.ArrayEx2" />
-      <item itemvalue="Application.ArrayCopyEx" />
+      <item itemvalue="Application.Problem01" />
+      <item itemvalue="Application.Problem02" />
+      <item itemvalue="Application.Problem03" />
+      <item itemvalue="Application.Problem04" />
+      <item itemvalue="Application.Problem05" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayCopyEx" />
-        <item itemvalue="Application.ArrayEx2" />
-        <item itemvalue="Application.MainArgs" />
-        <item itemvalue="Application.ArrayEx" />
-        <item itemvalue="Application.EnumEx" />
+        <item itemvalue="Application.Problem05" />
+        <item itemvalue="Application.Problem04" />
+        <item itemvalue="Application.Problem03" />
+        <item itemvalue="Application.Problem02" />
+        <item itemvalue="Application.Problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +388,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547684639924</updated>
-      <workItem from="1547684644865" duration="18286000" />
+      <workItem from="1547684644865" duration="20195000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -466,14 +474,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547706272004</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ver 1.00">
+      <created>1547708072220</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547708072220</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18286000" />
+    <option name="totallyTimeSpent" value="20195000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="568" y="0" width="975" height="831" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -482,7 +497,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20437159" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25936198" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
@@ -494,7 +509,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.3328446" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" x="727" y="172" width="721" height="505" id="Run" order="2" visible="true" weight="0.3191801" />
+      <window_info active="true" anchor="bottom" x="727" y="172" width="721" height="505" id="Run" order="2" visible="true" weight="0.3196481" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -727,8 +742,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_17/reftype/ArrayCopyEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="238">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
