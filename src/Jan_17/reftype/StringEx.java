@@ -22,5 +22,11 @@ public class StringEx {
 
         //10개의 사과 중 3개를 먹었다.
         System.out.println(total + " 개의 " + fruit + " 중에서 " + eat + " 개를 먹었다.");
+        System.out.printf("%d 개의 %s 중에서 %d 개를 먹었다.\n",total,fruit,eat);
+
+        //%f 형식문자열
+        float PI = 3.14159f;
+        //파이 값은 3.14159입니다.
+        System.out.printf("파이 값은 %.2f 입니다.",PI);
     }
 }
