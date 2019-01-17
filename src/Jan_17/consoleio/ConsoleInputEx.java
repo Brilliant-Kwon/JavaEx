@@ -1,4 +1,4 @@
-package Jan_17;
+package Jan_17.consoleio;
 
 import java.util.Scanner;
 

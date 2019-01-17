@@ -1,4 +1,4 @@
-package Jan_17;
+package Jan_17.consoleio;
 
 public class ConsoleOutputEx {
     public static void main(String[] args) {
