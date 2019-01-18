@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/staticmember/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_18/oop/staticmember/StaticExApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,23 +35,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="48" />
+          <entry key="java" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="48" />
+          <entry key="JAVA" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8804" />
+          <entry key="java" value="12203" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8804" />
+          <entry key="JAVA" value="12203" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -51,51 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem04.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_17/Practice01_1/Problem05.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,39 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="47" lean-forward="true" selection-start-line="3" selection-end-line="47" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-813">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -146,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="279">
+              <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#137#138#0" expanded="true" />
@@ -165,14 +99,76 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/methods/MethodEx.java">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+              <folding>
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#228#229#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#365#366#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/staticmember/CalculatorApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="52">
-              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-              <folding>
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-              </folding>
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="149">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem05.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="19" column="89" selection-start-line="19" selection-start-column="89" selection-end-line="19" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -190,6 +186,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>*</find>
+      <find>Goods2</find>
+      <find>Point</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -233,8 +231,21 @@
         <option value="$PROJECT_DIR$/src/Jan_18/oop/methods/MethodEx.java" />
         <option value="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp.java" />
         <option value="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp2.java" />
-        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java" />
         <option value="$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/staticmember/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/staticmember/CalculatorApp.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/staticmember/StaticExApp.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/Point2.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/Point3.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/PointPaa3.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp2.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/point/PointApp3.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem01.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem02.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem03.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem04.java" />
+        <option value="$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem05.java" />
       </list>
     </option>
   </component>
@@ -297,38 +308,7 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-              <item name="GoodsApp.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-              <item name="GoodsApp2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="goods" type="462c0819:PsiDirectoryNode" />
-              <item name="GoodsApp3.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="methods" type="462c0819:PsiDirectoryNode" />
+              <item name="Practice02_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -340,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547785505844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547796742586" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -365,13 +345,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PointApp">
-    <configuration name="GoodsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.goods.GoodsApp" />
+  <component name="RunManager" selected="Application.Problem05">
+    <configuration name="Problem01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.Practice02_1.Problem01" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_18.oop.goods.*" />
+          <option name="PATTERN" value="Jan_18.oop.Practice02_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -379,12 +359,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoodsApp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.goods.GoodsApp2" />
+    <configuration name="Problem02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.Practice02_1.Problem02" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_18.oop.goods.*" />
+          <option name="PATTERN" value="Jan_18.oop.Practice02_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,12 +372,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.methods.MethodEx" />
+    <configuration name="Problem03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.Practice02_1.Problem03" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_18.oop.methods.*" />
+          <option name="PATTERN" value="Jan_18.oop.Practice02_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -405,12 +385,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.point.PointApp" />
+    <configuration name="Problem04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.Practice02_1.Problem04" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_18.oop.point.*" />
+          <option name="PATTERN" value="Jan_18.oop.Practice02_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,11 +399,11 @@
       </method>
     </configuration>
     <configuration name="Problem05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_17.Practice01_1.Problem05" />
+      <option name="MAIN_CLASS_NAME" value="Jan_18.oop.Practice02_1.Problem05" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_17.Practice01_1.*" />
+          <option name="PATTERN" value="Jan_18.oop.Practice02_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -432,19 +412,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Problem01" />
+      <item itemvalue="Application.Problem02" />
+      <item itemvalue="Application.Problem03" />
+      <item itemvalue="Application.Problem04" />
       <item itemvalue="Application.Problem05" />
-      <item itemvalue="Application.GoodsApp" />
-      <item itemvalue="Application.MethodEx" />
-      <item itemvalue="Application.GoodsApp2" />
-      <item itemvalue="Application.PointApp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PointApp" />
-        <item itemvalue="Application.GoodsApp2" />
-        <item itemvalue="Application.GoodsApp" />
-        <item itemvalue="Application.MethodEx" />
         <item itemvalue="Application.Problem05" />
+        <item itemvalue="Application.Problem04" />
+        <item itemvalue="Application.Problem03" />
+        <item itemvalue="Application.Problem02" />
+        <item itemvalue="Application.Problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -458,7 +438,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547684639924</updated>
-      <workItem from="1547684644865" duration="29250000" />
+      <workItem from="1547684644865" duration="38549000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -565,11 +545,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547779816411</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="ver 1.00">
+      <created>1547785672961</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547785672961</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29250000" />
+    <option name="totallyTimeSpent" value="38549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="761" y="0" width="782" height="830" extended-state="0" />
@@ -581,7 +568,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20914127" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20914127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Terminal" />
@@ -593,7 +580,7 @@
       <window_info anchor="bottom" id="Version Control" weight="0.3328446" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" x="727" y="172" width="721" height="505" id="Run" order="2" visible="true" weight="0.3196481" />
+      <window_info active="true" anchor="bottom" x="727" y="172" width="721" height="505" id="Run" order="2" visible="true" weight="0.3196481" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -626,6 +613,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
@@ -633,24 +621,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/IntLongEx.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/quiz02/Quiz02_3.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/BooleanEx.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/quiz02/Quiz02_2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/OperatorEx.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/quiz02/Quiz02_4.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/CastingEx.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -897,32 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -942,18 +886,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        <state relative-caret-position="-813">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
           <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/staticmember/StaticExApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1203">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/goods/GoodsApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2125">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#994#995#0" expanded="true" />
+            <element signature="e#1079#1080#0" expanded="true" />
+            <element signature="e#1107#1108#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1183#1184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/staticmember/CalculatorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/point/PointApp2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_18/oop/Practice02_1/Problem05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="89" selection-start-line="19" selection-start-column="89" selection-end-line="19" selection-end-column="89" />
         </state>
       </provider>
     </entry>
