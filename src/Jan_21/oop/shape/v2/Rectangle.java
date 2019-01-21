@@ -1,6 +1,6 @@
 package Jan_21.oop.shape.v2;
 
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements Drawable{
     //추가 필드
     private int width;
     private int height;

@@ -1,6 +1,6 @@
 package Jan_21.oop.shape.v2;
 
-public class Circle extends Shape {
+public class Circle extends Shape implements Drawable {
     //추가 필드
     private int radius;
     private double PI = 3.141592;
@@ -16,11 +16,11 @@ public class Circle extends Shape {
 
     @Override
     public void draw() {
-        System.out.printf("%d , %d 좌표에 %.2f의 넓이를 가진 원을 그렸습니다.\n",x,y,area());
+        System.out.printf("%d , %d 좌표에 %.2f의 넓이를 가진 원을 그렸습니다.\n", x, y, area());
     }
 
     @Override
     public double area() {
-        return radius*Math.pow(PI,2);
+        return radius * Math.pow(PI, 2);
     }
 }
