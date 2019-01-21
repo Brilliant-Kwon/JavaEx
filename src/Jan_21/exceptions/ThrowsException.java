@@ -8,8 +8,19 @@ public class ThrowsException {
         //강제로 IOException을 발생시켜 외부로 넘겨주기
         throw new IOException("강제 예외");
     }
-    public void executeRuntimeException(){
+
+    public void executeRuntimeException() {
         System.out.println("런타임 예외");
-        throw new RuntimeException("RuntimeException" );
+        throw new RuntimeException("RuntimeException");
+    }
+
+    //사용자 정의 예외 throw
+    public double executeCustomException(int num1, int num2) {
+        if (num2 == 0) {
+            throw new CustomArithmeticException(num1, num2);
+        }
+        return num1 / num2;
     }
 }
+
+

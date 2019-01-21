@@ -22,17 +22,26 @@ public class ExceptionEx {
         try {
             except.executeRuntimeException();
         } catch (RuntimeException e) {
-            System.out.println("런타임 예외 발생 : "+e.getMessage());
+            System.out.println("런타임 예외 발생 : " + e.getMessage());
+        }
+        //사용자 정의 예외의 처리
+        try {
+            except.executeCustomException(100, 2);
+            except.executeCustomException(100, 0);
+        } catch (CustomArithmeticException e) {
+            System.out.println("사용자 정의 오류 발생");
+            System.out.println("첫번째 숫자 : "+e.getNum1());
+            System.out.println("나눈 숫자 : "+e.getNum2());
         }
     }
 
-    private static void arrayException(){
-        int[] array = new int[]{3,6,9};
+    private static void arrayException() {
+        int[] array = new int[]{3, 6, 9};
         try {
             System.out.println(array[4]);
         } catch (ArrayIndexOutOfBoundsException e) {
             System.out.println("배열 인덱스 벗어남");
-            System.out.println("인덱스 : "+e.getMessage());
+            System.out.println("인덱스 : " + e.getMessage());
         }
     }
 
@@ -44,9 +53,9 @@ public class ExceptionEx {
             System.out.println(str.toUpperCase());
         } catch (NullPointerException e) {
             System.out.println("객체가 할당되지 않았어요.");
-        }catch(Exception e){//혹시나 처리되지 않은 Exception 처리 용
+        } catch (Exception e) {//혹시나 처리되지 않은 Exception 처리 용
             e.printStackTrace();
-        }finally {
+        } finally {
 
         }
     }
