@@ -1,4 +1,4 @@
-package Jan_22.stringclass;
+package Jan_22.api.stringclass;
 
 public class StringEx {
     public static void main(String[] args) {

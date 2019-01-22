@@ -1,4 +1,4 @@
-package Jan_22.arrays;
+package Jan_22.api.arrays;
 
 import java.util.Arrays;
 import java.util.Collections;
