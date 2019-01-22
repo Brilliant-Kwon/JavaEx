@@ -1,12 +1,16 @@
 package Jan_22.collection.list;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class LinkedListEx {
+public class ArrayListEx {
     public static void main(String[] args) {
         //생성
-        List<String> lst = new LinkedList<>();
+//        List<String> lst = new LinkedList<>();
+        List<String> lst = new ArrayList<>();
+        //어떤 자료 구조를 선택할 것인지는 프로그래머의 선택
+        //중간에 추가 삭제가 빈번한 경우 ArrayList는 적합하지 않음
 
         //객체 추가 : add
         lst.add("Java");
