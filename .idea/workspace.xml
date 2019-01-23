@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q02/Q02Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q02/Question02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q04/DiceSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q04/Q04Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/FileStreamEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jan_23/collection/io/charstream/CharStreamEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,25 +31,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="170" />
+          <entry key="java" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="170" />
+          <entry key="JAVA" value="174" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="10" />
-          <entry key="java" value="30688" />
+          <entry key="dummy" value="12" />
+          <entry key="java" value="32436" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30677" />
-          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="JAVA" value="32425" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
       </usages-collector>
@@ -58,14 +57,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="364">
-              <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+              <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/FileStreamEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/CharStreamEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -98,10 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/Drawable.java" />
-        <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/Circle.java" />
         <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/Point.java" />
         <option value="$PROJECT_DIR$/src/Jan_21/oop/shape/v2/ShapeApp.java" />
         <option value="$PROJECT_DIR$/src/Jan_21/oop/summary.java" />
@@ -149,6 +183,10 @@
         <option value="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q04/DiceSimulator.java" />
         <option value="$PROJECT_DIR$/src/Jan_23/collection/extra01_solution/q02/Question02.java" />
         <option value="$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/FileStreamEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_23/collection/io/charstream/CharStreamEx.java" />
+        <option value="$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java" />
       </list>
     </option>
   </component>
@@ -219,6 +257,14 @@
               <item name="collection" type="462c0819:PsiDirectoryNode" />
               <item name="io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="bytestream" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,7 +277,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548216267945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548221009905" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -265,13 +311,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileClassEx">
-    <configuration name="ArrayListEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.list.ArrayListEx" />
+  <component name="RunManager" selected="Application.BufferedStreamEx">
+    <configuration name="BufferedStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.io.bytestream.BufferedStreamEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_23.collection.list.*" />
+          <option name="PATTERN" value="Jan_23.collection.io.bytestream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ByteArrayStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.io.bytestream.ByteArrayStreamEx" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_23.collection.io.bytestream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.io.charstream.CharStreamEx" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Jan_23.collection.io.charstream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,38 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashTableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.hash.HashTableEx" />
+    <configuration name="FileStreamEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.io.bytestream.FileStreamEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_23.collection.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q02Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.extra01_solution.q02.Q02Test" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan_23.collection.extra01_solution.q02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VectorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_23.collection.list.VectorEx" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Jan_23.collection.list.*" />
+          <option name="PATTERN" value="Jan_23.collection.io.bytestream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,19 +378,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HashTableEx" />
-      <item itemvalue="Application.VectorEx" />
-      <item itemvalue="Application.ArrayListEx" />
-      <item itemvalue="Application.Q02Test" />
       <item itemvalue="Application.FileClassEx" />
+      <item itemvalue="Application.ByteArrayStreamEx" />
+      <item itemvalue="Application.FileStreamEx" />
+      <item itemvalue="Application.CharStreamEx" />
+      <item itemvalue="Application.BufferedStreamEx" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BufferedStreamEx" />
+        <item itemvalue="Application.CharStreamEx" />
+        <item itemvalue="Application.FileStreamEx" />
+        <item itemvalue="Application.ByteArrayStreamEx" />
         <item itemvalue="Application.FileClassEx" />
-        <item itemvalue="Application.Q02Test" />
-        <item itemvalue="Application.ArrayListEx" />
-        <item itemvalue="Application.VectorEx" />
-        <item itemvalue="Application.HashTableEx" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +406,7 @@
       <updated>1547684639924</updated>
       <workItem from="1547684644865" duration="39262000" />
       <workItem from="1548026841747" duration="10040000" />
-      <workItem from="1548043428658" duration="44604000" />
+      <workItem from="1548043428658" duration="49259000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -544,16 +590,24 @@
       <option name="project" value="LOCAL" />
       <updated>1548207034680</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="ver 1.00">
+      <created>1548216319325</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1548216319325</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93906000" />
+    <option name="totallyTimeSpent" value="98561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="726" y="0" width="816" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" type="SLIDING" visible="true" weight="0.35978836" />
+      <window_info content_ui="combo" id="Project" order="0" type="SLIDING" weight="0.35978836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,7 +617,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info anchor="bottom" x="220" y="195" width="721" height="505" id="Run" order="2" visible="true" weight="0.29178885" />
+      <window_info anchor="bottom" x="220" y="195" width="721" height="505" id="Run" order="2" weight="0.29178885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -612,39 +666,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Jan_21/Practice03_1/problem02/FriendApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_21/Practice03_1/problem04/BookShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_22/api/stringclass/StringEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="93" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_22/api/arrays/ArraysEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_22/api/wrapper/WrapperEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -913,13 +934,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java">
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        <state relative-caret-position="338">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/CharStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/FileStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
         </state>
       </provider>
     </entry>
