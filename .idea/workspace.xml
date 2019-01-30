@@ -4,39 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/src/Jan_24/thread/MainThread.java" line="61" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ConversationBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringStack.java" afterDir="false" />
+    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="ver 1.00">
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyPointApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/ifandscan/problem08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_26/loof/problem12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyColorPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyColorPoint.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,24 +46,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="317" />
+          <entry key="java" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="317" />
+          <entry key="JAVA" value="325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="52592" />
+          <entry key="java" value="53733" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="52581" />
+          <entry key="JAVA" value="53722" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
@@ -105,25 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="52">
+              <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -131,8 +87,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="442">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,10 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/RectTriangle.java" />
-        <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/Resizable.java" />
-        <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/Resizeable.java" />
         <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem04/ShapeApp.java" />
         <option value="$PROJECT_DIR$/src/Jan_24/thread/MainThread.java" />
@@ -218,7 +192,11 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringStack.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyPoint.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyPointApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyColorPoint.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java" />
       </list>
     </option>
   </component>
@@ -232,6 +210,12 @@
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="952" />
@@ -377,6 +361,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
               <item name="Jan_29" type="462c0819:PsiDirectoryNode" />
+              <item name="colorpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_29" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_29" type="462c0819:PsiDirectoryNode" />
               <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -399,7 +399,7 @@
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548809175153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548825086415" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -436,7 +436,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringMain">
+  <component name="RunManager" selected="Application.StackApp">
+    <configuration name="MyPointApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.colorpoint.MyPointApp" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Jan_29.colorpoint.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.product.ProductInfo" />
       <module name="Java_Ex" />
@@ -450,38 +463,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.StringStack.StackApp" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Jan_29.StringStack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.stack.StringMain" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaStudy.Jan_29.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_26.loof.problem06" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_26.loof.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_26.loof.problem09" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_26.loof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -503,19 +503,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem09" />
       <item itemvalue="Application.problem10" />
-      <item itemvalue="Application.problem06" />
       <item itemvalue="Application.ProductInfo" />
       <item itemvalue="Application.StringMain" />
+      <item itemvalue="Application.MyPointApp" />
+      <item itemvalue="Application.StackApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackApp" />
+        <item itemvalue="Application.MyPointApp" />
         <item itemvalue="Application.StringMain" />
         <item itemvalue="Application.ProductInfo" />
         <item itemvalue="Application.problem10" />
-        <item itemvalue="Application.problem09" />
-        <item itemvalue="Application.problem06" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +533,7 @@
       <workItem from="1548026841747" duration="10040000" />
       <workItem from="1548043428658" duration="87428000" />
       <workItem from="1548321033181" duration="27385000" />
-      <workItem from="1548641030405" duration="17895000" />
+      <workItem from="1548641030405" duration="25562000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -752,11 +752,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548635812844</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="ver 1.00">
+      <created>1548809379575</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548809379575</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182010000" />
+    <option name="totallyTimeSpent" value="189677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -771,7 +778,7 @@
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.36842105" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.36893204" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -781,7 +788,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info anchor="bottom" x="130" y="118" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
+      <window_info anchor="bottom" x="439" y="180" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,7 +806,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32871014" />
       <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
@@ -830,27 +837,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Jan_24/network/ServerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/FileClassEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_22/collection/list/ArrayListEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_24/mini_project/PhoneSwitch.java" />
     <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/list/VectorEx.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1127,28 +1113,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#533#534#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#622#623#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -1170,32 +1134,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyColorPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/colorpoint/MyPointApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="407">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
         </state>
       </provider>
     </entry>
