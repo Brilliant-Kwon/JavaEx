@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.loof;
+package JavaStudy.Jan_26.loof;
 
 //369게임 , 반복문 사용
 public class problem12 {
@@ -16,8 +16,6 @@ public class problem12 {
                 System.out.println(i + " : 박수 짝");
 
             }
-
-
         }
 
     }

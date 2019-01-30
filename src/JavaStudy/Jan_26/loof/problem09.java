@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.loof;
+package JavaStudy.Jan_26.loof;
 
 import java.util.Scanner;
 

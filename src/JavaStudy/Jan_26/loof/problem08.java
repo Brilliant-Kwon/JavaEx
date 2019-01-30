@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.loof;
+package JavaStudy.Jan_26.loof;
 
 //4x4 배열 - 임의의 위치에 1~10 8개만 생성
 public class problem08 {

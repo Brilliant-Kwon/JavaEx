@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.loof;
+package JavaStudy.Jan_26.loof;
 //4x4 2차원 배열 -> 1~10 랜덤 정수 생성 출력
 public class problem07 {
     public static void main(String[] args) {

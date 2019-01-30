@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.loof;
+package JavaStudy.Jan_26.loof;
 
 import java.util.Scanner;
 
@@ -7,15 +7,16 @@ public class problem06 {
     public static void main(String[] args) {
         int[] arr = new int[10];
         Scanner sc = new Scanner(System.in);
+
         for (int i = 0; i < 10; i++) {
             System.out.print((i + 1) + " 번째 숫자 입력 >>");
             arr[i] = sc.nextInt();
         }
         int temp = 0;
-        if (arr[0] >= arr[1]) {
-            temp = arr[0];
-        } else
-            temp = arr[1];
+//        if (arr[0] >= arr[1]) {
+//            temp = arr[0];
+//        } else
+//            temp = arr[1];
         for (int i = 0; i < arr.length; i++) {
             for (int k = i + 1; k < arr.length; k++) {
                 if (arr[i] > arr[k]) {

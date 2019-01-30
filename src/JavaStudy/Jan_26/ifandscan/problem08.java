@@ -1,4 +1,4 @@
-package JavaStudy.Jan26.ifandscan;
+package JavaStudy.Jan_26.ifandscan;
 
 import java.util.Scanner;
 //사각형 겹치는지 판단
