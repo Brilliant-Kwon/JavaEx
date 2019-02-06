@@ -5,39 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/ConversationBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/MyColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/StringStack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/StringStack/StackApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/StringStack/StringStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyPointApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/ConversationBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/stack/StringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/stack/StringStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/CompactDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/ConversationBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/MyColorPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/MyPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/ProductInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/StackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/StringStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/stack/StringStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,26 +47,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="375" />
+          <entry key="java" value="387" />
           <entry key="url" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="375" />
+          <entry key="JAVA" value="387" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="53801" />
+          <entry key="java" value="57102" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53790" />
+          <entry key="JAVA" value="57091" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
@@ -106,28 +79,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/StackMain.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="549">
+              <caret line="74" column="13" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="74" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/StringStack.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="14" />
+            <state relative-caret-position="182">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,11 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Jan_24/mini_project/PhoneManager.java" />
-        <option value="$PROJECT_DIR$/src/Jan_24/phone/phoneApp.java" />
-        <option value="$PROJECT_DIR$/src/Jan_24/phone/phone.java" />
-        <option value="$PROJECT_DIR$/src/Jan_24/phone/phoneManage.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem01.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem02.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem03.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem04.java" />
@@ -207,13 +172,18 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/Book.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/ProductInfo.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyPoint.java" />
         <option value="$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/강혜수/study/Product.java" />
         <option value="$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/ConversationBook.java" />
         <option value="$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/엄유리/product/ProductInfo.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Stack.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/StringStack.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/YSH/StringStack.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/product/Book.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java" />
       </list>
     </option>
   </component>
@@ -235,8 +205,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="950" />
-    <option name="width" value="978" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -301,8 +271,7 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_29" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,19 +285,22 @@
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549243355539" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549454738913" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\YSH" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\EYR" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\NSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan26\ifandscan" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\Jan_24" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Jan_29.StringStack" />
@@ -353,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackMain">
+  <component name="RunManager" selected="Application.hangApp">
     <configuration name="MyPointApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.colorpoint.MyPointApp" />
       <module name="Java_Ex" />
@@ -367,25 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.product.ProductInfo" />
+    <configuration name="PhoneApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.Phone.PhoneApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_29.product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.StringStack.StackApp" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_29.StringStack.*" />
+          <option name="PATTERN" value="JavaStudy.Jan_31.Phone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -406,12 +365,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.stack.StringMain" />
+    <configuration name="calApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.allCalendar.calApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_29.stack.*" />
+          <option name="PATTERN" value="JavaStudy.Jan_31.allCalendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hangApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.hangman.hangApp" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Jan_31.hangman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -420,19 +392,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ProductInfo" />
-      <item itemvalue="Application.StringMain" />
       <item itemvalue="Application.MyPointApp" />
-      <item itemvalue="Application.StackApp" />
       <item itemvalue="Application.StackMain" />
+      <item itemvalue="Application.PhoneApp" />
+      <item itemvalue="Application.calApp" />
+      <item itemvalue="Application.hangApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hangApp" />
+        <item itemvalue="Application.calApp" />
+        <item itemvalue="Application.PhoneApp" />
         <item itemvalue="Application.StackMain" />
         <item itemvalue="Application.MyPointApp" />
-        <item itemvalue="Application.StackApp" />
-        <item itemvalue="Application.StringMain" />
-        <item itemvalue="Application.ProductInfo" />
       </list>
     </recent_temporary>
   </component>
@@ -450,7 +422,7 @@
       <workItem from="1548026841747" duration="10040000" />
       <workItem from="1548043428658" duration="87428000" />
       <workItem from="1548321033181" duration="27385000" />
-      <workItem from="1548641030405" duration="38530000" />
+      <workItem from="1548641030405" duration="50489000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -683,11 +655,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548825105943</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="ver 1.00">
+      <created>1549243414510</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1549243414510</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202645000" />
+    <option name="totallyTimeSpent" value="214604000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -699,7 +678,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="760" y="0" width="782" height="830" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.36842105" />
@@ -712,7 +691,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" x="439" y="180" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
+      <window_info active="true" anchor="bottom" x="593" y="286" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -721,7 +700,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067114" side_tool="true" weight="0.29275364" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.32551318" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3240469" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3328446" />
@@ -761,89 +740,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StackApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/StringStack/StringStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
-          <folding>
-            <element signature="e#124#125#0" expanded="true" />
-            <element signature="e#148#149#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-125">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/MyPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/MyColorPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/CompactDisc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/ConversationBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/NSH/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="81" column="18" lean-forward="true" selection-start-line="81" selection-start-column="18" selection-end-line="81" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JAVA note doc.url">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/MyColorPoint.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -875,7 +773,7 @@
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyPoint.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/강혜수/study/Product.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
@@ -889,7 +787,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/강혜수/study/ProductInfo.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/ProductInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
@@ -903,7 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/강혜수/study/Book.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/Book.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/CompactDisc.java">
@@ -1014,13 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="511">
@@ -1041,24 +932,118 @@
     <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/유승훈/Stack.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/StackMain.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/YSH/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/YSH/StackMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/YSH/StringStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/product/Book.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/YSH/ColorMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="156">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/StringStack.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/stack/StringStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="14" />
+        <state relative-caret-position="262">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#177#192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/DataStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-364">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/BufferedCharStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="74" column="13" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="74" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
