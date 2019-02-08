@@ -29,7 +29,7 @@ public class AnimalApp {
         if (animal instanceof KungfuSkill) {
             ((KungfuSkill) animal).kungfu();
         } else {
-            System.out.println(animal.name + ": 저는 쿵후 못해요.");
+//            System.out.println(animal.name + ": 저는 쿵후 못해요.");
         }
     }
 }

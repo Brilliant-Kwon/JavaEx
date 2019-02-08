@@ -5,12 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/CalendarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/AddressProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Hangman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/PhoneApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/stack/StringStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +43,10 @@
     <expand />
     <select />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1590385843">
       <usages-collector id="statistics.lifecycle.project">
@@ -47,26 +61,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="387" />
+          <entry key="java" value="417" />
           <entry key="url" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="387" />
+          <entry key="JAVA" value="417" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="57102" />
+          <entry key="java" value="57116" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="57091" />
+          <entry key="JAVA" value="57105" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
@@ -79,10 +93,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="74" column="13" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="74" selection-end-column="13" />
+            <state relative-caret-position="468">
+              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,14 +104,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="286">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -133,14 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem02.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem03.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem04.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem05.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/problem06.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem06.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem01.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem02.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem03.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem04.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem05.java" />
@@ -182,8 +194,16 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/product/Book.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java" />
+        <option value="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/CalendarTest.java" />
       </list>
     </option>
   </component>
@@ -204,10 +224,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -257,6 +277,27 @@
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_21" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_21" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_21" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -273,6 +314,54 @@
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
               <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="allCalendar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="EYR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="hangman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="NSH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="Phone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="YSH" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -285,22 +374,25 @@
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549454738913" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549581709326" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\KHS" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\EYR" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\NSH" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\YSH" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\YSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\EYR" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\NSH" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Jan_29.StringStack" />
@@ -326,12 +418,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.hangApp">
-    <configuration name="MyPointApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.colorpoint.MyPointApp" />
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.EYR.CalendarTest" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_29.colorpoint.*" />
+          <option name="PATTERN" value="JavaStudy.Jan_31.EYR.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -339,12 +431,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.Phone.PhoneApp" />
+    <configuration name="HangMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.YSH.Quiz03.HangMain" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.Phone.*" />
+          <option name="PATTERN" value="JavaStudy.Jan_31.YSH.Quiz03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,12 +444,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_29.YSH.StackMain" />
+    <configuration name="PhoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.YSH.Quiz02.PhoneMain" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_29.YSH.*" />
+          <option name="PATTERN" value="JavaStudy.Jan_31.YSH.Quiz02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -392,19 +484,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MyPointApp" />
-      <item itemvalue="Application.StackMain" />
-      <item itemvalue="Application.PhoneApp" />
+      <item itemvalue="Application.PhoneMain" />
+      <item itemvalue="Application.HangMain" />
       <item itemvalue="Application.calApp" />
+      <item itemvalue="Application.CalendarTest" />
       <item itemvalue="Application.hangApp" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.hangApp" />
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.calApp" />
-        <item itemvalue="Application.PhoneApp" />
-        <item itemvalue="Application.StackMain" />
-        <item itemvalue="Application.MyPointApp" />
+        <item itemvalue="Application.HangMain" />
+        <item itemvalue="Application.PhoneMain" />
       </list>
     </recent_temporary>
   </component>
@@ -422,7 +514,7 @@
       <workItem from="1548026841747" duration="10040000" />
       <workItem from="1548043428658" duration="87428000" />
       <workItem from="1548321033181" duration="27385000" />
-      <workItem from="1548641030405" duration="50489000" />
+      <workItem from="1548641030405" duration="57510000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -662,11 +754,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549243414510</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="ver 1.00">
+      <created>1549454905853</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1549454905853</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214604000" />
+    <option name="totallyTimeSpent" value="221625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -678,10 +777,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.36842105" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.26912752" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -691,7 +790,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" x="593" y="286" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
+      <window_info anchor="bottom" x="598" y="196" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -700,7 +799,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067114" side_tool="true" weight="0.29275364" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3240469" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.32028985" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3328446" />
@@ -740,77 +839,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JAVA note doc.url">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/MyColorPoint.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/Book.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/Product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/product/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/StringStack/StackApp.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/Product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/CompactDisc.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/MyPoint.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/NSH/ConversationBook.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/Jan_29/colorpoint/MyPoint.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="85" column="85" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/KHS/Book.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/CompactDisc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/ProductInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -981,17 +1009,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#177#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-208">
@@ -1027,23 +1044,145 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem03/GoodsApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/CharEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_21/api/objectclass/ex1/LangClassTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_24/network/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="55" column="43" lean-forward="true" selection-start-line="55" selection-start-column="43" selection-end-line="55" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1117">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Hangman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/Hangman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/Files/S0/150/HangMan4[211].java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="74" column="13" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="74" selection-end-column="13" />
+        <state relative-caret-position="208">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="116" column="9" lean-forward="true" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/PhoneApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/AddressProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="106" column="48" lean-forward="true" selection-start-line="106" selection-start-column="48" selection-end-line="106" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="468">
+          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
         </state>
       </provider>
     </entry>

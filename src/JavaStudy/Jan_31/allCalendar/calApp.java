@@ -1,7 +1,5 @@
 package JavaStudy.Jan_31.allCalendar;
 
-import Jan_21.Practice03_1.problem04.Book;
-
 import java.util.Scanner;
 
 public class calApp {
@@ -46,7 +44,7 @@ public class calApp {
 
             //달력 출력
             int printday = wday;//달력 출력용 임시 변수
-            System.out.println("일\t월\t화\t수\t목\t금\t토\t");
+            System.out.println("일\t월\t화\t수\t목\t금\t토\n");
             if (printday > 0) {
                 for (int k = 0; k < printday; k++) {
                     System.out.print("\t");//첫 줄 앞 공백 입력
