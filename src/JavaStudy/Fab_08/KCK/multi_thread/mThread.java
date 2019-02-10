@@ -1,6 +1,5 @@
 package JavaStudy.Fab_08.KCK.multi_thread;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 class runnerThread implements Runnable {//달리기 주자 쓰레드
