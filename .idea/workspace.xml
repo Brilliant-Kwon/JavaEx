@@ -5,22 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/AddressProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/PhoneApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/hangApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,36 +45,37 @@
     <session id="1590385843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.12" value="4" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="417" />
+          <entry key="java" value="430" />
+          <entry key="txt" value="3" />
           <entry key="url" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="417" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="430" />
+          <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="57116" />
+          <entry key="java" value="60624" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="57105" />
+          <entry key="JAVA" value="60613" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
@@ -93,31 +88,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
+        <entry file="file://$PROJECT_DIR$/src/Jan_24/thread/MainThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="233">
+              <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="208">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/words.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2963">
+              <caret line="126" column="47" lean-forward="true" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+            <state relative-caret-position="546">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -153,13 +168,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem03.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem04.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem05.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem07.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem09.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem12.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem11.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem03.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem07.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/ifandscan/problem08.java" />
@@ -204,6 +212,13 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/allCalendar/calApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/CalendarTest.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz04.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/hangApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java" />
       </list>
     </option>
   </component>
@@ -225,7 +240,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
+    <option name="x" value="951" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
   </component>
@@ -235,20 +250,57 @@
         <expanded-state>
           <State />
           <State>
-            <id>Control flow issuesJava</id>
+            <id>Class structureJava</id>
           </State>
           <State>
-            <id>General</id>
+            <id>Code maturityJava</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
           </State>
           <State>
             <id>Java</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>InfiniteLoopStatement</id>
+            <id>Java 5Java language level migration aidsJava</id>
           </State>
-        </selected-state>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
@@ -261,6 +313,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,43 +336,42 @@
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_21" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_24" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_21" type="462c0819:PsiDirectoryNode" />
-              <item name="oop" type="462c0819:PsiDirectoryNode" />
-              <item name="summary" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_24" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Jan_24" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="MainThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
               <item name="allCalendar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -327,15 +379,7 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
-              <item name="EYR" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
               <item name="hangman" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -343,30 +387,30 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
-              <item name="NSH" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+              <item name="hangman_multi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
-              <item name="Phone" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_31" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="mThreadBar.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -374,7 +418,7 @@
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549581709326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549840937144" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -388,11 +432,11 @@
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\KCK\multi_thread" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\KCK\hangman_multi" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\KCK" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\KHS" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\EYR" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\NSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_31\YSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\YSH" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Jan_29.StringStack" />
@@ -417,13 +461,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.hangApp">
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.EYR.CalendarTest" />
+  <component name="RunManager" selected="Application.mThreadBar">
+    <configuration name="calApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.allCalendar.calApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.EYR.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.allCalendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -431,12 +475,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HangMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.YSH.Quiz03.HangMain" />
+    <configuration name="hangApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.hangman.hangApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.YSH.Quiz03.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.hangman.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -444,12 +488,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.YSH.Quiz02.PhoneMain" />
+    <configuration name="mThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.multi_thread.mThread" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.YSH.Quiz02.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.multi_thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -457,12 +501,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.allCalendar.calApp" />
+    <configuration name="mThreadBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.multi_thread.mThreadBar" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.allCalendar.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.multi_thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -470,12 +514,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hangApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Jan_31.hangman.hangApp" />
+    <configuration name="quiz05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.Quiz04_05.quiz05" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Jan_31.hangman.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.Quiz04_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,19 +528,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PhoneMain" />
-      <item itemvalue="Application.HangMain" />
-      <item itemvalue="Application.calApp" />
-      <item itemvalue="Application.CalendarTest" />
-      <item itemvalue="Application.hangApp" />
+      <item itemvalue="Application.quiz05" />
+      <item itemvalue="Application.calApp (1)" />
+      <item itemvalue="Application.hangApp (1)" />
+      <item itemvalue="Application.mThread" />
+      <item itemvalue="Application.mThreadBar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.hangApp" />
-        <item itemvalue="Application.CalendarTest" />
-        <item itemvalue="Application.calApp" />
-        <item itemvalue="Application.HangMain" />
-        <item itemvalue="Application.PhoneMain" />
+        <item itemvalue="Application.mThreadBar" />
+        <item itemvalue="Application.mThread" />
+        <item itemvalue="Application.hangApp (1)" />
+        <item itemvalue="Application.calApp (1)" />
+        <item itemvalue="Application.quiz05" />
       </list>
     </recent_temporary>
   </component>
@@ -515,6 +559,8 @@
       <workItem from="1548043428658" duration="87428000" />
       <workItem from="1548321033181" duration="27385000" />
       <workItem from="1548641030405" duration="57510000" />
+      <workItem from="1549593488693" duration="8119000" />
+      <workItem from="1549781837856" duration="8549000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -761,11 +807,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549454905853</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="ver 1.00">
+      <created>1549594093898</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1549594093898</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221625000" />
+    <option name="totallyTimeSpent" value="238293000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -780,7 +833,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.26912752" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="0" type="SLIDING" weight="0.13020134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -790,7 +843,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info anchor="bottom" x="598" y="196" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
+      <window_info anchor="bottom" x="284" y="137" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -799,7 +852,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067114" side_tool="true" weight="0.29275364" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.32028985" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3196481" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3328446" />
@@ -839,86 +892,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="76" column="42" lean-forward="true" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="24" column="32" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="24" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/ConversationBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/엄유리/product/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-413">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/엄유리/product/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="53" column="4" lean-forward="true" selection-start-line="53" selection-start-column="4" selection-end-line="56" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/엄유리/product/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/유승훈/ProductInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="122" column="22" lean-forward="true" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/유승훈/Product.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/유승훈/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="33" column="25" lean-forward="true" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/MyPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/MyColorPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/OneDrive/바탕 화면/비트교육/스터디 문제/2일차 - 클래스/노성헌/0131 클래스문제/MyColorPointMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -991,28 +964,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/stack/StringStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/stack/StringStack.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1142,9 +1098,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1162,29 +1115,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="61" lean-forward="true" selection-start-line="18" selection-start-column="61" selection-end-line="18" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        <state relative-caret-position="182">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_01.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/StringTokenizerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/hangApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="44" lean-forward="true" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Jan_24/thread/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="75" column="27" lean-forward="true" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2963">
+          <caret line="126" column="47" lean-forward="true" selection-start-line="126" selection-start-column="47" selection-end-line="126" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Java_Ex</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
