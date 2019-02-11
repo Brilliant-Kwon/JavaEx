@@ -62,6 +62,8 @@ public class mThread {//main 쓰레드
         Thread c = new Thread(new runnerThread(3));
         Thread d = new Thread(new runnerThread(4));
 
+        System.out.println("땅~~ 총성이 울렸습니다!\n[경기 시작!]");
+
         a.start();      //쓰레드 시작
         b.start();
         c.start();
@@ -123,7 +125,7 @@ public class mThread {//main 쓰레드
 
         }
 
-        System.out.println("경기 종료.\n결과 발표!\n");
+        System.out.println("\n[경기 종료!]\n결과 발표!\n");
 
         for (int i = 0; i < 4; i++) {
             System.out.println(i + 1 + "등 : " + result[i]);

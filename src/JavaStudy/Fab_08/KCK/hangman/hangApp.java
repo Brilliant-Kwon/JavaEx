@@ -53,16 +53,6 @@ public class hangApp {
                     if(go==2)//정답 2개 다 맞추면
                         break;
                 }
-//                while (life > 0) {//2번째 빈칸 맞추기 반복
-//                    System.out.println(word_copy);
-//                    System.out.print("2번째 빈칸 (목숨 : " + life + ") >>");
-//                    String ans = sc.nextLine();
-//                    if (ans.charAt(0) == word.charAt(ran_word2)) {//일치하면
-//                        word_copy[ran_word2] = ans.charAt(0);
-//                        break;
-//                    } else//틀리면
-//                        life--;//목숨감소
-//                }
 
                 if (life == 0) {
                     System.out.println("5번 실패 하였습니다.");
