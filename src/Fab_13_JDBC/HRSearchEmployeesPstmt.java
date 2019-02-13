@@ -3,11 +3,12 @@ package Fab_13_JDBC;
 import java.sql.*;
 import java.util.Scanner;
 
-public class HRSearchEmployees {
+public class HRSearchEmployeesPstmt {
     public static void main(String[] args) {
         String dburl = "jdbc:oracle:thin:@localhost:1521:xe";
         Connection conn = null;
-        Statement stmt = null;
+//        Statement stmt = null;
+        PreparedStatement pstmt = null;
         ResultSet rs = null;
 
         Scanner sc = new Scanner(System.in);
@@ -21,15 +22,18 @@ public class HRSearchEmployees {
             conn = DriverManager.getConnection(dburl, "HR", "HR");
             System.out.println("Connection : " + conn);
             System.out.println("연결 성공!");
-            //4.Statement 생성
-            stmt = conn.createStatement();
-            String sql = "SELECT first_name || ' ' || last_name as name, email, phone_number, hire_date " +
-                    "FROM employees WHERE LOWER (first_name || ' ' || last_name) LIKE '%" + name +
-                    "%' OR UPPER (first_name || ' ' || last_name) LIKE '%" + name + "%'";
-            System.out.println("SQL : " + sql);
+            //4.PreparedStatement 생성
+//            stmt = conn.createStatement();
+
+            String sql = "SELECT first_name || ' ' || last_name as name, email, phone_number, hire_date FROM employees " +
+                    "WHERE lower(first_name) LIKE ? OR lower(last_name) LIKE ?";
+            System.out.println(sql);
+            pstmt = conn.prepareStatement(sql);
+            pstmt.setString(1, "%" + name.toLowerCase() + "%");
+            pstmt.setString(2, "%" + name.toLowerCase() + "%");
 
             //5.결과값을 얻기 -> ResultSet
-            rs = stmt.executeQuery(sql);
+            rs = pstmt.executeQuery();
             System.out.println("\n 검색결과 출력\n=========================================================================================");
             System.out.printf("%-25s %-15s %-20s %-30s\n", "name", "email", "phone_number", "hire_date");
 //            System.out.println("name,   email,  phone_number,   hire_date");
@@ -55,7 +59,7 @@ public class HRSearchEmployees {
             //6.닫기
             try {
                 if (rs != null) rs.close();
-                if (stmt != null) stmt.close();
+                if (pstmt != null) pstmt.close();
                 if (conn != null) conn.close();
             } catch (SQLException e) {
                 System.err.println("SQL Error!");
