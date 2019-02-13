@@ -11,7 +11,7 @@ public class SynchronizedEx {
 }
 class SyncObject{
 	int sum=0;
-	synchronized void add() {
+	 void add() {
 		int n=sum;
 //		Thread.yield();
 		n+=10;

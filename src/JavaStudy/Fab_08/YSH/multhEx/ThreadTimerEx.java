@@ -51,6 +51,7 @@ public class ThreadTimerEx extends JFrame{
 		timerLabel2.setFont(new Font("Gothic",Font.ITALIC,30));
 		
 		setSize(500,500);
+		setLocation(500,500);
 		setVisible(true);
 		TimerThread th=new TimerThread(timerLabel,c);
 		TimerThread th2=new TimerThread(timerLabel2,c);

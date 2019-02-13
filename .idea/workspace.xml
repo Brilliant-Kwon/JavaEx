@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz02/compareFileEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/RunnableTimerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/t1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/t2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/t3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Ex.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Ex.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,38 +43,38 @@
     <session id="1590385843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="450" />
-          <entry key="txt" value="11" />
+          <entry key="java" value="464" />
+          <entry key="txt" value="18" />
           <entry key="url" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="450" />
-          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="JAVA" value="464" />
+          <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="60687" />
+          <entry key="java" value="61414" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="60676" />
+          <entry key="JAVA" value="61403" />
           <entry key="PLAIN_TEXT" value="20" />
           <entry key="RegExp" value="11" />
         </counts>
@@ -96,28 +87,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java">
+        <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="48" column="56" lean-forward="true" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+            <state relative-caret-position="355">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#711#712#0" expanded="true" />
+                <element signature="e#745#746#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java">
+        <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+            <state relative-caret-position="407">
+              <caret line="18" column="25" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
+        <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="127" column="37" selection-start-line="127" selection-start-column="37" selection-end-line="127" selection-end-column="37" />
+            <state relative-caret-position="234">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#674#675#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,10 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem10.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan26/loof/problem12.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ConversationBook.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/CompactDisc.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Book.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/Product.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/product/ProductInfo.java" />
@@ -197,13 +197,17 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/hangApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/NSH/Ex05.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz02/compareFileEx.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" />
+        <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java" />
+        <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java" />
+        <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java" />
       </list>
     </option>
   </component>
@@ -224,10 +228,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -302,6 +306,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,95 +321,25 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-              <item name="allCalendar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-              <item name="hangman" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
-              <item name="mThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="KCK" type="462c0819:PsiDirectoryNode" />
-              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
-              <item name="mThreadBar.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549875296204" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550017644935" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/jre1.8.0_201/lib/ext/ojdbc6.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -438,13 +375,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.mThread">
-    <configuration name="FileComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.EYR.FileComparison" />
+  <component name="RunManager" selected="Application.BorderLayoutEx">
+    <configuration name="BorderLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fab_GUI.Fab_12.BorderLayoutEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_08.EYR.*" />
+          <option name="PATTERN" value="Fab_GUI.Fab_12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -452,12 +389,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReader_ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.EYR.FileReader_ex" />
+    <configuration name="ContentPaneEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fab_GUI.Fab_12.ContentPaneEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_08.EYR.*" />
+          <option name="PATTERN" value="Fab_GUI.Fab_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlowLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fab_GUI.Fab_12.FlowLayoutEx" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fab_GUI.Fab_12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.YSH.multhEx.SynchronizedEx" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Fab_08.YSH.multhEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -478,46 +441,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hangApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.hangman.hangApp" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.hangman.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_08.KCK.multi_thread.mThread" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_08.KCK.multi_thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.SynchronizedEx" />
       <item itemvalue="Application.ThreadTimerEx" />
-      <item itemvalue="Application.FileComparison" />
-      <item itemvalue="Application.FileReader_ex" />
-      <item itemvalue="Application.hangApp" />
-      <item itemvalue="Application.mThread" />
+      <item itemvalue="Application.ContentPaneEx" />
+      <item itemvalue="Application.FlowLayoutEx" />
+      <item itemvalue="Application.BorderLayoutEx" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mThread" />
-        <item itemvalue="Application.hangApp" />
-        <item itemvalue="Application.FileReader_ex" />
-        <item itemvalue="Application.FileComparison" />
+        <item itemvalue="Application.BorderLayoutEx" />
+        <item itemvalue="Application.FlowLayoutEx" />
+        <item itemvalue="Application.ContentPaneEx" />
         <item itemvalue="Application.ThreadTimerEx" />
+        <item itemvalue="Application.SynchronizedEx" />
       </list>
     </recent_temporary>
   </component>
@@ -539,7 +476,8 @@
       <workItem from="1549593488693" duration="8119000" />
       <workItem from="1549781837856" duration="11405000" />
       <workItem from="1549845877722" duration="332000" />
-      <workItem from="1549872875712" duration="2253000" />
+      <workItem from="1549872875712" duration="7039000" />
+      <workItem from="1549956324549" duration="5456000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -807,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549841131519</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="ver 1.00">
+      <created>1549875322487</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1549875322487</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243734000" />
+    <option name="totallyTimeSpent" value="253976000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -823,7 +768,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -831,11 +777,11 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32936507" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.16912752" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.3633842" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289855" />
-      <window_info active="true" anchor="bottom" x="475" y="240" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
+      <window_info anchor="bottom" x="741" y="295" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -884,55 +830,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/ByteArrayStreamEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-208">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/DataStreamEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-364">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/BufferedCharStreamEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_29/stack/StringMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/practice/extra02/problem03/GoodsApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Jan_16/helloworld/CharEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_21/api/objectclass/ex1/LangClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -1048,9 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_01.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/charstream/StringTokenizerEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1058,24 +952,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="18" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Jan_23/collection/io/bytestream/BufferedStreamEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="54" column="33" lean-forward="true" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1106,52 +986,12 @@
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/t3.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Others/src/calendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Others/src/Fab11_nsh/Ex04.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" column="63" lean-forward="true" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="27" column="120" lean-forward="true" selection-start-line="27" selection-start-column="120" selection-end-line="27" selection-end-column="120" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz02/compareFileEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Others/src/calendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Others/src/Fab11_nsh/Ex04.java" />
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/RunnableTimerEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1162,52 +1002,155 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr2.txt">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="306">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="10" column="74" lean-forward="true" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <caret line="10" column="87" lean-forward="true" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="18" column="94" lean-forward="true" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="48" column="56" lean-forward="true" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+        <state relative-caret-position="234">
+          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="58" column="55" lean-forward="true" selection-start-line="58" selection-start-column="55" selection-end-line="58" selection-end-column="55" />
+        <state relative-caret-position="130">
+          <caret line="39" column="27" lean-forward="true" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_new.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="127" column="37" selection-start-line="127" selection-start-column="37" selection-end-line="127" selection-end-column="37" />
+        <state relative-caret-position="2132">
+          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1222">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz02/compareFileEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_02.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_03.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/file_01.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="18" column="25" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#674#675#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1276,6 +1219,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>ojdbc6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
