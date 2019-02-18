@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalActionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/EYR/CalculatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/KHS/calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/NSH/MyCal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="508" />
+          <entry key="java" value="531" />
           <entry key="sql" value="1" />
           <entry key="txt" value="18" />
           <entry key="url" value="1" />
@@ -59,7 +62,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="507" />
+          <entry key="JAVA" value="530" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
@@ -67,16 +70,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="73289" />
+          <entry key="dummy" value="25" />
+          <entry key="java" value="75132" />
           <entry key="sql" value="73" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="73278" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="75121" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="RegExp" value="11" />
           <entry key="SQL" value="73" />
         </counts>
@@ -87,64 +90,15 @@
     <favorites_list name="Java_Ex" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="858">
-              <caret line="34" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="323" lean-forward="true" selection-start-line="323" selection-end-line="323" />
-              <folding>
-                <element signature="e#10470#18687#0" expanded="true" />
-                <element signature="e#18686#18687#0" expanded="true" />
-                <element signature="e#18899#18900#0" expanded="true" />
-                <element signature="e#18935#18936#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/Component.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="6543" selection-start-line="6543" selection-end-line="6543" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalActionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="FxmlFile" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="FxmlFile" />
       </list>
     </option>
   </component>
@@ -163,6 +117,7 @@
       <find>showResult.getText().char</find>
       <find>showResult.getText().charAt(showResult.getText().length() - 1) != '+'</find>
       <find>keyChar.equals</find>
+      <find>requestFocus</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\k1212\bitacademy\Java_Ex\src</dir>
@@ -174,12 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_29/EYR/product/Book.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/Phone.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/Phone/PhoneApp.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/hangman/hangApp.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/Phone.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz01/ManCalendar.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java" />
         <option value="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" />
@@ -224,7 +173,13 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/Calculator.java" />
         <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalActionListener.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/EYR/CalculatorApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/calcalcal/calculator.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/KHS/calc.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/NSH/MyCal.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculator.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java" />
       </list>
     </option>
   </component>
@@ -245,8 +200,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -322,13 +277,84 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
+              <item name="KHS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
+              <item name="NSH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
+              <item name="YSH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550408615642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550532462481" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -340,15 +366,16 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Jan_23.collection.practice.extra02.problem04" />
+      <recent name="Jan_21.oop.casting" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17\KHS" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17\NSH" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\Fab_15_JDBC\dao" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\Fab_15_JDBC" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\EYR" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\YSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\NSH" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Fab_17" />
@@ -357,9 +384,8 @@
       <recent name="Jan_23.collection.list" />
       <recent name="Jan_22.collection.list" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Jan_23.collection.practice.extra02.problem04" />
-      <recent name="Jan_21.oop.casting" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -374,22 +400,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BorderLayoutEx">
-    <configuration name="Bookshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fab_13_JDBC.bookshop.Bookshop" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fab_13_JDBC.bookshop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BorderLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.BorderLayoutEx" />
+  <component name="RunManager">
+    <configuration name="CalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.CalApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
@@ -401,12 +414,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.Calculator" />
+    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.EYR.CalculatorApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_17.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_17.EYR.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -414,12 +427,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HRSearchEmployeesPstmt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fab_13_JDBC.HRSearchEmployeesPstmt" />
+    <configuration name="MyCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.NSH.MyCal" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fab_13_JDBC.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_17.NSH.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,12 +440,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PhoneBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fab_15_JDBC.PhoneBook" />
+    <configuration name="calc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.KHS.calc" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fab_15_JDBC.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_17.KHS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.YSH.calculMain" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Fab_17.YSH.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -441,19 +467,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HRSearchEmployeesPstmt" />
-      <item itemvalue="Application.Bookshop" />
-      <item itemvalue="Application.PhoneBook" />
-      <item itemvalue="Application.Calculator" />
-      <item itemvalue="Application.BorderLayoutEx" />
+      <item itemvalue="Application.CalApp" />
+      <item itemvalue="Application.CalculatorApp" />
+      <item itemvalue="Application.calculMain" />
+      <item itemvalue="Application.MyCal" />
+      <item itemvalue="Application.calc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BorderLayoutEx" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.Bookshop" />
-        <item itemvalue="Application.HRSearchEmployeesPstmt" />
+        <item itemvalue="Application.CalApp" />
+        <item itemvalue="Application.calculMain" />
+        <item itemvalue="Application.calc" />
+        <item itemvalue="Application.MyCal" />
+        <item itemvalue="Application.CalculatorApp" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +503,7 @@
       <workItem from="1549845877722" duration="332000" />
       <workItem from="1549872875712" duration="7039000" />
       <workItem from="1549956324549" duration="45380000" />
-      <workItem from="1550396057960" duration="12481000" />
+      <workItem from="1550396057960" duration="26516000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -787,11 +813,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550213375577</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="ver 1.00">
+      <created>1550408630486</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1550408630486</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306381000" />
+    <option name="totallyTimeSpent" value="320416000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -803,8 +836,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -812,20 +844,20 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32936507" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.36308724" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.2" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289855" />
-      <window_info active="true" anchor="bottom" x="46" y="232" width="721" height="504" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" visible="true" weight="0.29275364" />
+      <window_info anchor="bottom" x="114" y="144" width="675" height="394" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991204" />
-      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289855" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067114" side_tool="true" weight="0.29275364" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3181818" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3173913" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3328446" />
@@ -865,35 +897,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Others/src/Fab11_nsh/Ex04.java" />
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/RunnableTimerEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr1copy.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr3.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -1109,6 +1112,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="158" selection-start-line="158" selection-end-line="158" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1135,38 +1141,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="34" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
@@ -1188,15 +1162,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="323" lean-forward="true" selection-start-line="323" selection-end-line="323" />
+        <state relative-caret-position="260">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
           <folding>
-            <element signature="e#10470#18687#0" expanded="true" />
-            <element signature="e#18686#18687#0" expanded="true" />
-            <element signature="e#18899#18900#0" expanded="true" />
-            <element signature="e#18935#18936#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/BorderLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/EYR/CalculatorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/NSH/MyCal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/KHS/calc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="243" column="66" lean-forward="true" selection-start-line="243" selection-start-column="66" selection-end-line="243" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12644#21181#0" expanded="true" />
+            <element signature="e#21180#21181#0" expanded="true" />
           </folding>
         </state>
       </provider>
