@@ -26,8 +26,6 @@ class runnerThread implements Runnable {//달리기 주자 쓰레드
             System.out.println("[ " + number + " 번 주자] " + (i * 10) + "m"); //10미터씩 달리고 있는 것 처럼 출력함.
         }
         System.out.println("[ " + number + " 번 주자] 결승선 통과!!");
-
-
     }
 }
 
@@ -135,7 +133,5 @@ public class mThread {//main 쓰레드
             System.out.println("1등을 맞히셨군요.\n로또사러 가세요.^^");
         else
             System.out.println("예측에 실패하셨습니다.\n아쉽지만 도박에는 소질이 없어 보이시네요 ^_^.. ");
-
-
     }
 }

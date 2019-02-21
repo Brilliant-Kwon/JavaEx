@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/EYR/CalculatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/KHS/calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/NSH/MyCal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_19/ShootingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_19/Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_19/images/chicken.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_17/BorderLayoutEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,19 +40,21 @@
     <session id="1590385843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="531" />
+          <entry key="java" value="535" />
+          <entry key="jpg" value="1" />
           <entry key="sql" value="1" />
           <entry key="txt" value="18" />
           <entry key="url" value="1" />
@@ -62,7 +62,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="530" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="535" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
@@ -71,14 +72,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="java" value="75132" />
+          <entry key="java" value="76412" />
           <entry key="sql" value="73" />
           <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="75121" />
+          <entry key="JAVA" value="79515" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="RegExp" value="11" />
           <entry key="SQL" value="73" />
@@ -90,15 +91,59 @@
     <favorites_list name="Java_Ex" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="353" column="8" lean-forward="true" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#12645#21182#0" expanded="true" />
+                <element signature="e#21181#21182#0" expanded="true" />
+                <element signature="e#21654#21655#0" expanded="true" />
+                <element signature="e#21682#21683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+              <folding>
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/Threads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="158" column="13" lean-forward="true" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2746#3475#0" expanded="true" />
+                <element signature="e#3474#3475#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -106,7 +151,6 @@
     <findStrings>
       <find>*</find>
       <find>Goods2</find>
-      <find>Point</find>
       <find>`</find>
       <find>'</find>
       <find>책</find>
@@ -118,6 +162,7 @@
       <find>showResult.getText().charAt(showResult.getText().length() - 1) != '+'</find>
       <find>keyChar.equals</find>
       <find>requestFocus</find>
+      <find>Point</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\k1212\bitacademy\Java_Ex\src</dir>
@@ -129,8 +174,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz02/PhoneMain.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/YSH/Quiz03/HangMain.java" />
         <option value="$PROJECT_DIR$/src/Jan_21/oop/summary/AnimalApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/NSH/Calendar.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Jan_31/EYR/addressprogram/Address.java" />
@@ -146,7 +189,6 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileComparison.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/FileReader_ex.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/Quiz01/mergeFileEx.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/SynchronizedEx.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java" />
@@ -180,6 +222,9 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/NSH/MyCal.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/YSH/calculator.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_19/ShootingApp.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_19/Threads.java" />
       </list>
     </option>
   </component>
@@ -200,10 +245,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -278,8 +323,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,12 +339,6 @@
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,31 +346,41 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-              <item name="KHS" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-              <item name="NSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
+              <item name="multi_thread" type="462c0819:PsiDirectoryNode" />
+              <item name="mThread.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
@@ -347,14 +394,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550532462481" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550709317589" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -363,7 +411,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -371,11 +419,11 @@
       <recent name="Jan_21.oop.casting" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17\KHS" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17\NSH" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_17" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\Fab_15_JDBC\dao" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\Fab_15_JDBC" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Fab_17" />
@@ -385,6 +433,7 @@
       <recent name="Jan_22.collection.list" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
   </component>
@@ -400,7 +449,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Threads">
     <configuration name="CalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.CalApp" />
       <module name="Java_Ex" />
@@ -414,12 +463,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.EYR.CalculatorApp" />
+    <configuration name="ShootingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.ShootingApp" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_17.EYR.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -427,12 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.NSH.MyCal" />
+    <configuration name="Threads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.Threads" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_17.NSH.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -468,18 +517,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CalApp" />
-      <item itemvalue="Application.CalculatorApp" />
       <item itemvalue="Application.calculMain" />
-      <item itemvalue="Application.MyCal" />
       <item itemvalue="Application.calc" />
+      <item itemvalue="Application.ShootingApp" />
+      <item itemvalue="Application.Threads" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Threads" />
+        <item itemvalue="Application.ShootingApp" />
         <item itemvalue="Application.CalApp" />
         <item itemvalue="Application.calculMain" />
         <item itemvalue="Application.calc" />
-        <item itemvalue="Application.MyCal" />
-        <item itemvalue="Application.CalculatorApp" />
       </list>
     </recent_temporary>
   </component>
@@ -503,7 +552,8 @@
       <workItem from="1549845877722" duration="332000" />
       <workItem from="1549872875712" duration="7039000" />
       <workItem from="1549956324549" duration="45380000" />
-      <workItem from="1550396057960" duration="26516000" />
+      <workItem from="1550396057960" duration="35182000" />
+      <workItem from="1550618425541" duration="17604000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -820,11 +870,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550408630486</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="ver 1.00">
+      <created>1550532620055</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1550532620055</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="320416000" />
+    <option name="totallyTimeSpent" value="346686000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -836,19 +893,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="761" y="0" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.24930748" />
       <window_info id="Designer" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32936507" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.2" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.2631579" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289855" />
-      <window_info anchor="bottom" x="114" y="144" width="675" height="394" id="Run" order="2" sideWeight="0.49328858" type="WINDOWED" weight="0.29275364" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32844576" />
+      <window_info active="true" anchor="bottom" x="303" y="281" width="675" height="411" id="Run" order="2" sideWeight="0.49328858" visible="true" weight="0.29136163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -857,7 +915,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32991204" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067114" side_tool="true" weight="0.29275364" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.3173913" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.31625184" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.3328446" />
@@ -897,34 +955,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="87" lean-forward="true" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/EYR/fr2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman/hangApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -943,13 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2132">
-          <caret line="84" column="13" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1166,9 +1189,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1176,11 +1196,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1188,11 +1203,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1191#1192#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1231,14 +1241,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/images/chicken.jpg" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Runnable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        <state relative-caret-position="233">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/ShootingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#12644#21181#0" expanded="true" />
-            <element signature="e#21180#21181#0" expanded="true" />
+            <element signature="e#1605#1606#0" expanded="true" />
+            <element signature="e#1637#1638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_17/CalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="353" column="8" lean-forward="true" selection-start-line="353" selection-start-column="8" selection-end-line="353" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12645#21182#0" expanded="true" />
+            <element signature="e#21181#21182#0" expanded="true" />
+            <element signature="e#21654#21655#0" expanded="true" />
+            <element signature="e#21682#21683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="62" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding>
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/Threads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="158" column="13" lean-forward="true" selection-start-line="158" selection-start-column="13" selection-end-line="158" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2746#3475#0" expanded="true" />
+            <element signature="e#3474#3475#0" expanded="true" />
           </folding>
         </state>
       </provider>
