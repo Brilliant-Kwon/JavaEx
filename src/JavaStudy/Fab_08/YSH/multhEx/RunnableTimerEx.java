@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.YSH.multhEx;
+package JavaStudy.Fab_08_Calculator.YSH.multhEx;
 import java.awt.*;
 import javax.swing.*;
 

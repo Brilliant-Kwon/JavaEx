@@ -303,7 +303,7 @@ public class CalApp extends JFrame {
                                     arrayList.set(oper - 1, null);
                                 }
                             }
-                        }
+                        }//주석
                         ArrayList<String> tempList = new ArrayList<>();
                         for (String anArrayList : arrayList) {
                             if (anArrayList != null) {

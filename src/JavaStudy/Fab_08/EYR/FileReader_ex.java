@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.EYR;
+package JavaStudy.Fab_08_Calculator.EYR;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;

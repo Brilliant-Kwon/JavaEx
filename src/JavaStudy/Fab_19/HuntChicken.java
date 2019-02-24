@@ -10,7 +10,7 @@ class missileThread extends JFrame implements Runnable {
     static JLabel missile;  //미사일 라벨
     int miss_y = 440; // 미사일 y좌표 시작점
 
-    public missileThread(JLabel misslabel, Container container) { //미사일 쓰레드 생성자
+    missileThread(JLabel misslabel, Container container) { //미사일 쓰레드 생성자
         this.container = container; //컨테이너와
         this.missile = misslabel;   //미사일 라벨을 상속 받는다.
         this.missile.setSize(20, 20);       //미사일의 크기를 지정해주고
@@ -63,7 +63,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
 
         textlabel.setFont(new Font("Consoles", Font.BOLD, 15));     //문구 폰트 지정
         textlabel.setLocation(350, 130);        //문구 위치 지정
-        textlabel.setSize(100, 20);     //문구 라벨의 사이즈 지정 (폰트 사이즈 아님 )
+        textlabel.setSize(100, 20);     //문구 라벨의 사이즈 지정 (폰트 사이즈 아님)
 
         //나는 탱크다
         rectlabel.setHorizontalAlignment(SwingConstants.CENTER);    //'나는 탱크다' 문구의 정렬을 가운데로 지정
@@ -123,7 +123,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
             System.out.println("chick) x : " + chick_x + "y :" + chick_y);//확인용 콘솔 문구
             System.out.println("miss) x : " + miss_x + "y :" + miss_y);
             if ((miss_x >= chick_x && miss_x <= (chick_x + 100)) && (miss_x + 20) <= (chick_x + 100)) {
-                if (miss_y >= chick_y && miss_y <= (chick_y + 100)) {       //미사일 박스와 닭 박스가 겹쳤을 때
+                if (miss_y >= chick_y && miss_y <= (chick_y + 100))  {       //미사일 박스와 닭 박스가 겹쳤을 때
                     hit = true;             //충돌했다고 설정
                 } else {
                     hit = false;
@@ -162,7 +162,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
                 go = 1;
             }
             try {
-                Thread.sleep(10); // 닭 움직이는 속도
+                Thread.sleep(20); // 닭 움직이는 속도
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

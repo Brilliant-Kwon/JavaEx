@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.KCK.allCalendar;
+package JavaStudy.Fab_08_Calculator.KCK.allCalendar;
 
 import java.util.Scanner;
 

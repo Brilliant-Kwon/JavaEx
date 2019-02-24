@@ -1,6 +1,5 @@
-package JavaStudy.Fab_08.YSH.multhEx;
+package JavaStudy.Fab_08_Calculator.YSH.multhEx;
 import java.awt.*;
-import java.util.ArrayList;
 
 import javax.swing.*;
 class TimerThread extends Thread{

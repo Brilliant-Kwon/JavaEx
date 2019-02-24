@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.KCK.Quiz04_05;
+package JavaStudy.Fab_08_Calculator.KCK.Quiz04_05;
 
 import java.io.*;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.KCK.hangman;
+package JavaStudy.Fab_08_Calculator.KCK.hangman;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

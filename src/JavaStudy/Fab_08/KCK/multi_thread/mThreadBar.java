@@ -1,4 +1,4 @@
-package JavaStudy.Fab_08.KCK.multi_thread;
+package JavaStudy.Fab_08_Calculator.KCK.multi_thread;
 
 import java.util.Scanner;
 
