@@ -32,7 +32,7 @@ public class chicken extends JFrame implements KeyListener{
 	 *  
 	 * 
 	 */
-	ImageIcon image1 = new ImageIcon("D:\\javastudy\\chicken.png");
+	ImageIcon image1 = new ImageIcon("C:\\Users\\k1212\\bitacademy\\Java_Ex\\src\\JavaStudy\\Fab_19\\NSH\\chicken.png");
 	JLabel chi = new JLabel(image1);
 	int mi_x = 195;
 	int mi_y = 410;	//	미사일의 x,y좌표 초기값

@@ -73,7 +73,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
         rectlabel.setLocation(350, 462);                    //탱크 라벨의 위치 지정
         rectlabel.setBackground(Color.GREEN);                       //탱크 라벨의 배경 색 지정
         rectlabel.setOpaque(true);                                  //배경색을 불투명하게 지정
-                            // (기본값이 투명값 = false로 설정되어 있어서 true를 하면 불투명하게 바꿀 수 있다.)
+        // (기본값이 투명값 = false로 설정되어 있어서 true를 하면 불투명하게 바꿀 수 있다.)
 
         //미사일
         missile.setLocation(390, 450);                      //미사일의 시작점 지정 (미사일 쓰레드와 어느정도 중복)
@@ -98,7 +98,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
                     //미사일 - 스레드
                     Thread missThread = new Thread(new missileThread(missile, contentPane)); //미사일 쓰레드 객체 선언
                     if (missThread.getState() == Thread.State.NEW) {            //미사일 쓰레드가 중복되지 않게 해보려
-                                                    //했으나... 실패한 부분
+                        //했으나... 실패한 부분
                         System.out.println("엔터키 입력받음."); //콘솔 확인용 출력
                     }
                     missThread.start();                 //미사일 쓰레드 실행
@@ -124,8 +124,9 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
             boolean hit = false;                                    //맞았을 때 true 안 맞았을 때 false
             System.out.println("chick) x : " + chick_x + "y :" + chick_y);//확인용 콘솔 문구
             System.out.println("miss) x : " + miss_x + "y :" + miss_y);
+
             if ((miss_x >= chick_x && miss_x <= (chick_x + 100)) && (miss_x + 20) <= (chick_x + 100)) {
-                if (miss_y >= chick_y && miss_y <= (chick_y + 100))  {       //미사일 박스와 닭 박스가 겹쳤을 때
+                if (miss_y >= chick_y && miss_y <= (chick_y + 100)) {       //미사일 박스와 닭 박스가 겹쳤을 때
                     hit = true;             //충돌했다고 설정
                 } else {
                     hit = false;
@@ -178,6 +179,7 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
             }
         }
     }
+
     public static void main(String[] args) {
         Thread a = new Thread(new HuntChicken());   //메인 객체 생성
         a.start();//쓰레드 시작
