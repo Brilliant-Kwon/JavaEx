@@ -47,8 +47,8 @@ public class HuntChicken extends JFrame implements Runnable {       //메인 메
     //닭/치킨 이미지를 포함한 사이즈 조정 라벨 100x100으로 사이즈 지정하기 위한 과정
     ImageIcon source = new ImageIcon("C:\\Users\\k1212\\bitacademy\\Java_Ex\\src\\JavaStudy\\Fab_19\\images\\chicken.png");
     ImageIcon fried = new ImageIcon("C:\\Users\\k1212\\bitacademy\\Java_Ex\\src\\JavaStudy\\Fab_19\\images\\fried.jpg");
-    //Image before = source.getImage();
-    Image before = Toolkit.getDefaultToolkit().getImage("C:\\Users\\k1212\\bitacademy\\Java_Ex\\src\\JavaStudy\\Fab_19\\images\\chicken.png");
+    Image before = source.getImage();
+//    Image before = Toolkit.getDefaultToolkit().getImage("C:\\Users\\k1212\\bitacademy\\Java_Ex\\src\\JavaStudy\\Fab_19\\images\\chicken.png");
     Image after = before.getScaledInstance(100, 100, Image.SCALE_SMOOTH);
 
     ImageIcon chick = new ImageIcon(after);
