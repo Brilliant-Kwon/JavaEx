@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="ver 1.00">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/ShootingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/crash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/launcher.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/target.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ClientEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ServerEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/EnterShooting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/ThreadByMisile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/airplane2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/misile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/monster2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Fab_19/HuntChicken.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Fab_19/HuntChicken.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,16 +49,19 @@
     <session id="1590385843">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -62,7 +76,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="550" />
+          <entry key="JAVA" value="559" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
@@ -78,7 +92,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="82060" />
+          <entry key="JAVA" value="82062" />
           <entry key="PLAIN_TEXT" value="33" />
           <entry key="RegExp" value="11" />
           <entry key="SQL" value="73" />
@@ -90,121 +104,62 @@
     <favorites_list name="Java_Ex" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame1.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1063">
-                  <caret line="183" column="13" lean-forward="true" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#893#894#0" expanded="true" />
-                    <element signature="e#927#928#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/NSH/chicken.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-442">
-                  <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="390">
-                  <caret line="71" column="62" lean-forward="true" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2747#3314#0" expanded="true" />
-                    <element signature="e#3313#3314#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="339">
-                  <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/EnterShooting.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="69">
-                  <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/KeyEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="78">
-                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/KeyListenerEx.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="104">
-                  <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/ThreadByMonster.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1287">
-                  <caret line="22" column="112" selection-start-line="15" selection-start-column="9" selection-end-line="22" selection-end-column="112" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/ThreadByMisile.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="183">
-                  <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/ShootingGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1664">
+              <caret line="101" column="12" lean-forward="true" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/ThreadByMisile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ClientEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ServerEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/EnterShooting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/EnterShooting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="10" selection-start-line="7" selection-start-column="4" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -235,6 +190,7 @@
       <find>contentPane</find>
       <find>th</find>
       <find>size</find>
+      <find>back</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\k1212\bitacademy\Java_Ex\src</dir>
@@ -246,8 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/Quiz04_05/quiz05.java" />
-        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/allCalendar/calApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/hangman_multi/hangApp.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/KCK/multi_thread/mThreadBar.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_08/NSH/Ex05.java" />
@@ -297,6 +251,8 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_19/NSH/chicken.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame1.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/ShootingGame.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/EnterShooting.java" />
       </list>
     </option>
   </component>
@@ -317,11 +273,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="width" value="1219" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -462,7 +417,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -479,55 +434,27 @@
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_15_JDBC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_15_JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_15_JDBC" type="462c0819:PsiDirectoryNode" />
+              <item name="vo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Quiz01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_08" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Quiz02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
@@ -535,30 +462,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
               <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-              <item name="EYR" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-              <item name="NSH" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
@@ -573,8 +476,15 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-              <item name="HuntChicken.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
+              <item name="YSH" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
@@ -588,14 +498,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551139033392" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551339861553" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -607,16 +517,16 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Jan_23.collection.practice.extra02.problem04" />
-      <recent name="Jan_21.oop.casting" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\YSH" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\EYR\day6" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\EYR" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\EYR" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\NSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\YSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_08\NSH" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Fab_17" />
@@ -625,9 +535,9 @@
       <recent name="Jan_23.collection.list" />
       <recent name="Jan_22.collection.list" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Jan_23.collection.practice.extra02.problem04" />
+      <recent name="Jan_21.oop.casting" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -642,13 +552,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShootingGame1">
-    <configuration name="EnterShooting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.YSH.EnterShooting" />
+  <component name="RunManager" selected="Application.EnterShooting">
+    <configuration name="ClientEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_28.EYR.socket.ClientEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_19.YSH.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_28.EYR.socket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnterShooting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_28.YSH.EnterShooting" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Fab_28.YSH.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -669,12 +592,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShootingGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.EYR.ShootingGame" />
+    <configuration name="ServerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_28.EYR.socket.ServerEx" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_19.EYR.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_28.EYR.socket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -682,25 +605,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShootingGame1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.EYR.ShootingGame1" />
+    <configuration name="ShootingGame (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_28.EYR.day6.ShootingGame" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_19.EYR.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="chicken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_19.NSH.chicken" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_19.NSH.*" />
+          <option name="PATTERN" value="JavaStudy.Fab_28.EYR.day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -710,17 +620,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.HuntChicken" />
-      <item itemvalue="Application.ShootingGame" />
-      <item itemvalue="Application.chicken" />
+      <item itemvalue="Application.ShootingGame (1)" />
+      <item itemvalue="Application.ClientEx" />
+      <item itemvalue="Application.ServerEx" />
       <item itemvalue="Application.EnterShooting" />
-      <item itemvalue="Application.ShootingGame1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShootingGame1" />
-        <item itemvalue="Application.ShootingGame" />
-        <item itemvalue="Application.chicken" />
         <item itemvalue="Application.EnterShooting" />
+        <item itemvalue="Application.ClientEx" />
+        <item itemvalue="Application.ServerEx" />
+        <item itemvalue="Application.ShootingGame (1)" />
         <item itemvalue="Application.HuntChicken" />
       </list>
     </recent_temporary>
@@ -747,7 +657,13 @@
       <workItem from="1549956324549" duration="45380000" />
       <workItem from="1550396057960" duration="35182000" />
       <workItem from="1550618425541" duration="43780000" />
-      <workItem from="1551081550207" duration="3503000" />
+      <workItem from="1551081550207" duration="3776000" />
+      <workItem from="1551146859159" duration="852000" />
+      <workItem from="1551159597260" duration="2187000" />
+      <workItem from="1551163329654" duration="599000" />
+      <workItem from="1551170534062" duration="1644000" />
+      <workItem from="1551225913553" duration="2440000" />
+      <workItem from="1551338448332" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -1089,7 +1005,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376365000" />
+    <option name="totallyTimeSpent" value="385658000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1101,7 +1017,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="0" width="975" height="831" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24930748" />
@@ -1110,11 +1026,11 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32936507" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.26308724" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.26338798" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32844576" />
-      <window_info anchor="bottom" x="303" y="281" width="675" height="411" id="Run" order="2" sideWeight="0.4919463" visible="true" weight="0.26086956" />
+      <window_info anchor="bottom" x="796" y="177" width="675" height="411" id="Run" order="2" sideWeight="0.4919463" type="WINDOWED" weight="0.26061493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1163,35 +1079,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_08/YSH/multhEx/ThreadTimerEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="18" column="25" selection-start-line="7" selection-start-column="8" selection-end-line="18" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-    <entry file="file://$PROJECT_DIR$/src/Fab_13_JDBC/SelectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Fab_13_JDBC/HREmpList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -1249,13 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBookDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Fab_13_JDBC/bookshop/AuthorDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1281,16 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
           <caret line="158" selection-start-line="158" selection-end-line="158" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBookDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1302,13 +1172,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/vo/PhoneBookVO.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1385,11 +1248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="507">
           <caret line="26" column="47" lean-forward="true" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1605#1606#0" expanded="true" />
-            <element signature="e#1637#1638#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1432,6 +1290,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-52">
           <caret line="305" column="29" selection-start-line="305" selection-start-column="29" selection-end-line="305" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4368">
+          <caret line="174" column="56" selection-start-line="174" selection-start-column="56" selection-end-line="174" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/NSH/chicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1794">
+          <caret line="71" column="62" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3926">
+          <caret line="151" column="47" selection-start-line="151" selection-start-column="47" selection-end-line="151" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBookDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBookDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3562">
+          <caret line="137" column="55" selection-start-line="137" selection-start-column="55" selection-end-line="137" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1454,62 +1360,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/ThreadByMonster.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1287">
+        <state relative-caret-position="520">
           <caret line="22" column="112" selection-start-line="15" selection-start-column="9" selection-end-line="22" selection-end-column="112" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/ThreadByMisile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="50" column="38" lean-forward="true" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+        <state relative-caret-position="1248">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame.java">
+    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/dao/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="49" column="41" lean-forward="true" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ClientEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/socket/ServerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/ThreadByMisile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="71" column="62" lean-forward="true" selection-start-line="71" selection-start-column="62" selection-end-line="71" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2747#3314#0" expanded="true" />
-            <element signature="e#3313#3314#0" expanded="true" />
-          </folding>
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/NSH/chicken.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/EYR/day6/ShootingGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        <state relative-caret-position="1664">
+          <caret line="101" column="12" lean-forward="true" selection-start-line="101" selection-start-column="12" selection-end-line="101" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/YSH/EnterShooting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="208">
+          <caret line="10" selection-start-line="7" selection-start-column="4" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/EYR/ShootingGame1.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_28/YSH/EnterShooting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1063">
-          <caret line="183" column="13" lean-forward="true" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
-          <folding>
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Fab_19/HuntChicken.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="165" column="13" lean-forward="true" selection-start-line="165" selection-start-column="13" selection-end-line="165" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="338">
+          <caret line="60" column="17" lean-forward="true" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
         </state>
       </provider>
     </entry>
