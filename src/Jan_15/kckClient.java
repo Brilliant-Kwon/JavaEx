@@ -10,8 +10,9 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 public class kckClient {//클라이언트 클래스
-    private static final String SERVER_IP = "192.168.1.50";//서버 ip주소
+    private static final String SERVER_IP = "192.168.1.12";//서버 ip주소
     private static final int SERVER_PORT = 5050;//서버 포트번호
+
 
     public static void main(String[] args) {//메인 시작
 

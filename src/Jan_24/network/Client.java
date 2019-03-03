@@ -17,7 +17,7 @@ public class Client {
 
             //서버 정보 소켓으로 연결 시도
 //            InetSocketAddress server = new InetSocketAddress("192.168.1.50", 10000);
-            InetSocketAddress server = new InetSocketAddress("192.168.1.50", 10000);
+            InetSocketAddress server = new InetSocketAddress("192.168.1.12", 10000);
             socket.connect(server);
             System.out.println("[서버에 연결되었습니다.]");
 

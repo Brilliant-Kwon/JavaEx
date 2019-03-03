@@ -188,7 +188,7 @@ public class ShootingGame extends JFrame {
 					if((target.getX()<= bullet.getX())&& (bullet.getX()<=target.getX()+100)
 							&&(target.getY()<= bullet.getY())&& (bullet.getY()<=target.getY()+100)) {
 						bullet.setVisible(false);
-						Thread.sleep(300);
+//						Thread.sleep(300);
 					}
 				} catch (InterruptedException e) {
 					System.err.println("Error:" + e.getMessage());

@@ -47,6 +47,7 @@ public class EnterShooting extends JFrame {
             int keyCode = e.getKeyCode();
             Thread tmi = new Thread(runMi);
             if (keyCode == 10) {
+                System.out.println("엔터");
                 tmi.start();
                 System.out.println("미사일 스레드 시작");
                 System.out.println(misile.getX() + "," + misile.getY());

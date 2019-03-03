@@ -12,7 +12,7 @@ public class Server {
 
         try {
             serverSocket = new ServerSocket();
-            InetSocketAddress localhost = new InetSocketAddress("192.168.1.50",10000);
+            InetSocketAddress localhost = new InetSocketAddress("192.168.1.12",10000);
             serverSocket.bind(localhost);
             System.out.println("<서버 시작>");
             System.out.println("[연결을 기다립니다.]");
