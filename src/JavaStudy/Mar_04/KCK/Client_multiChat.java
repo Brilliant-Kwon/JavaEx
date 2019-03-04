@@ -2,6 +2,8 @@ package JavaStudy.Mar_04.KCK;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.io.*;
@@ -34,13 +36,25 @@ public class Client_multiChat extends JFrame {
 
         JTextArea getChat = new JTextArea();
         JScrollPane Dialog = new JScrollPane(getChat);
+        Dialog.setPreferredSize(new Dimension(300, 400));
         Dialog.setBackground(Color.ORANGE);
         Dialog.setOpaque(true);
         con.add(Dialog, BorderLayout.CENTER);
 
+        JPanel input_panel = new JPanel();
+        input_panel.setLayout(new BorderLayout());
+
         JTextField input = new JTextField();
+        input.setPreferredSize(new Dimension(300, 100));
+
+        JButton input_button = new JButton("전송");
+        input_button.setBackground(Color.GREEN);
+
+        input_panel.add(input, BorderLayout.CENTER);
+        input_panel.add(input_button, BorderLayout.EAST);
+
 //        input.requestFocus();
-        con.add(input, BorderLayout.SOUTH);
+        con.add(input_panel, BorderLayout.SOUTH);
 
         con.setSize(300, 500);
         con.requestFocus();
@@ -49,10 +63,10 @@ public class Client_multiChat extends JFrame {
         setVisible(true);//창 보이게 설정
 
         //기능 부분
-        BufferedReader in = null;
-        BufferedReader stin = null;
-        BufferedWriter out = null;
-
+//        BufferedReader in = null;
+//        BufferedReader stin = null;
+//        BufferedWriter out = null;
+//
         boolean connected = false;
 
         try {
@@ -84,12 +98,31 @@ public class Client_multiChat extends JFrame {
                             } else {
                                 System.out.println("엔터키 입력");
                                 Thread sender = null;
-
                                 sender = new Thread(new Client_Sender(con, socket, getChat, input));
                                 sender.start();
                             }
                         }
 //                getChat.append("키 입력:" + keyChar + key + "\n");
+                    }
+                });
+
+                input_button.addActionListener(new ActionListener() {
+                    @Override
+                    public void actionPerformed(ActionEvent e) {
+                        if (nickname == null) {
+                            System.out.println("닉네임 엔터키 입력");
+                            nickname = input.getText();
+                            System.out.println("닉네임 : " + nickname);
+                            getChat.append(nickname + "\n");
+                            title.setText(title.getText() + " [" + nickname + "]");
+                            input.setText("");
+                        } else {
+                            System.out.println("엔터키 입력");
+                            Thread sender = null;
+
+                            sender = new Thread(new Client_Sender(con, socket, getChat, input));
+                            sender.start();
+                        }
                     }
                 });
 

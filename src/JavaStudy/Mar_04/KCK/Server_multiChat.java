@@ -2,6 +2,8 @@ package JavaStudy.Mar_04.KCK;
 
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.io.*;
@@ -11,7 +13,9 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 
-// TODO: 2019-03-03 채팅을 치던 받던 getChat에 출력되야 함.
+// TODO: 2019-03-04 닉네임 입력 전에 서버가 채팅을 쳐도 못 받도록 해야 함
+// TODO: 2019-03-04 채팅창 색깔넣기 글씨 폰트 등등 설정하기
+// TODO: 2019-03-04 닉네임 넣는 창 빼기 
 
 public class Server_multiChat extends JFrame {
 
@@ -37,13 +41,25 @@ public class Server_multiChat extends JFrame {
 
         JTextArea getChat = new JTextArea();
         JScrollPane Dialog = new JScrollPane(getChat);
+        Dialog.setPreferredSize(new Dimension(300, 400));
         Dialog.setBackground(Color.ORANGE);
         Dialog.setOpaque(true);
         con.add(Dialog, BorderLayout.CENTER);
 
+        JPanel input_panel = new JPanel();
+        input_panel.setLayout(new BorderLayout());
+
         JTextField input = new JTextField();
+        input.setPreferredSize(new Dimension(300, 100));
+
+        JButton input_button = new JButton("전송");
+        input_button.setBackground(Color.ORANGE);
+
+        input_panel.add(input, BorderLayout.CENTER);
+        input_panel.add(input_button, BorderLayout.EAST);
+
 //        input.requestFocus();
-        con.add(input, BorderLayout.SOUTH);
+        con.add(input_panel, BorderLayout.SOUTH);
 
         con.setSize(300, 500);
         con.requestFocus();
@@ -51,12 +67,12 @@ public class Server_multiChat extends JFrame {
         setLocation(100, 200);
         setVisible(true);//창 보이게 설정
 
-        //기능 부분
-        BufferedReader in = null; // 클라이언트로부터 입력
-        BufferedReader stin = null; // 키보드로부터 입력
-        BufferedWriter out = null; //클라이언트로 출력
-
-        boolean bye = false;
+//        //기능 부분
+//        BufferedReader in = null; // 클라이언트로부터 입력
+//        BufferedReader stin = null; // 키보드로부터 입력
+//        BufferedWriter out = null; //클라이언트로 출력
+//
+//        boolean bye = false;
 
 //        ArrayList<OutputStream> outputStreams = new ArrayList<>();
 
@@ -85,6 +101,22 @@ public class Server_multiChat extends JFrame {
                         }
                     }
 //                getChat.append("키 입력:" + keyChar + key + "\n");
+                }
+            });
+            input_button.addActionListener(new ActionListener() {
+                @Override
+                public void actionPerformed(ActionEvent e) {
+                    Thread sender = null;
+                    try {
+//                            for (int i = 0; i < socketList.size(); i++) {
+                        sender = new Thread(new Server_Sender(con, serverSocket, socketList, getChat, input));
+                        sender.start();
+//                            }
+//                            sender = new Thread(new Server_Sender(con, serverSocket, socket, getChat, input));
+//                            sender.start();
+                    } catch (IOException e1) {
+                        e1.printStackTrace();
+                    }
                 }
             });
 

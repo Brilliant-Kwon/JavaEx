@@ -35,13 +35,25 @@ public class Server_multiThread extends JFrame {
 
         JTextArea getChat = new JTextArea();
         JScrollPane Dialog = new JScrollPane(getChat);
+        Dialog.setPreferredSize(new Dimension(300, 400));
         Dialog.setBackground(Color.ORANGE);
         Dialog.setOpaque(true);
         con.add(Dialog, BorderLayout.CENTER);
 
+        JPanel input_panel = new JPanel();
+        input_panel.setLayout(new BorderLayout());
+
         JTextField input = new JTextField();
+        input.setPreferredSize(new Dimension(300, 100));
+
+        JButton input_button = new JButton("전송");
+        input_button.setBackground(Color.ORANGE);
+
+        input_panel.add(input, BorderLayout.CENTER);
+        input_panel.add(input_button, BorderLayout.EAST);
+
 //        input.requestFocus();
-        con.add(input, BorderLayout.SOUTH);
+        con.add(input_panel, BorderLayout.SOUTH);
 
         con.setSize(300, 500);
         con.requestFocus();
@@ -49,12 +61,12 @@ public class Server_multiThread extends JFrame {
         setLocation(100, 200);
         setVisible(true);//창 보이게 설정
 
-        //기능 부분
-        BufferedReader in = null; // 클라이언트로부터 입력
-        BufferedReader stin = null; // 키보드로부터 입력
-        BufferedWriter out = null; //클라이언트로 출력
-
-        boolean bye = false;
+//        //기능 부분
+//        BufferedReader in = null; // 클라이언트로부터 입력
+//        BufferedReader stin = null; // 키보드로부터 입력
+//        BufferedWriter out = null; //클라이언트로 출력
+//
+//        boolean bye = false;
 
 //        ArrayList<OutputStream> outputStreams = new ArrayList<>();
         ArrayList<Socket> socketList = new ArrayList<>();
@@ -83,19 +95,17 @@ public class Server_multiThread extends JFrame {
             });
 
 //            while (true) {//멀티 채팅용.......
-                System.out.println("접속 대기중");
-                socket = serverSocket.accept(); // 클라이언트 연결 요청 대기
+            System.out.println("접속 대기중");
+            socket = serverSocket.accept(); // 클라이언트 연결 요청 대기
 //                outputStreams.add(socket.getOutputStream());// TODO: 2019-03-03 멀티 채팅
-                //현재 시간 추가
-                System.out.println(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 [" + socket.getInetAddress().getHostAddress() + "] 연결 됨.");
-                getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 [" + socket.getInetAddress().getHostAddress() + "] 연결 됨.\n");
-                getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
+            //현재 시간 추가
+            System.out.println(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 [" + socket.getInetAddress().getHostAddress() + "] 연결 됨.");
+            getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 [" + socket.getInetAddress().getHostAddress() + "] 연결 됨.\n");
+            getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
 
-                Thread receiver = new Thread(new Server_Receiver(serverSocket, socket, getChat, input));
-                receiver.start();
+            Thread receiver = new Thread(new Server_Receiver(serverSocket, socket, getChat, input));
+            receiver.start();
 //            }
-
-
 
 
 //            getChat.append("채팅 종료\n");

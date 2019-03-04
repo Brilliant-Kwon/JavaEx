@@ -31,13 +31,25 @@ public class Client_multiThread extends JFrame {
 
         JTextArea getChat = new JTextArea();
         JScrollPane Dialog = new JScrollPane(getChat);
+        Dialog.setPreferredSize(new Dimension(300, 400));
         Dialog.setBackground(Color.ORANGE);
         Dialog.setOpaque(true);
         con.add(Dialog, BorderLayout.CENTER);
 
+        JPanel input_panel = new JPanel();
+        input_panel.setLayout(new BorderLayout());
+
         JTextField input = new JTextField();
+        input.setPreferredSize(new Dimension(300, 100));
+
+        JButton input_button = new JButton("전송");
+        input_button.setBackground(Color.GREEN);
+
+        input_panel.add(input, BorderLayout.CENTER);
+        input_panel.add(input_button, BorderLayout.EAST);
+
 //        input.requestFocus();
-        con.add(input, BorderLayout.SOUTH);
+        con.add(input_panel, BorderLayout.SOUTH);
 
         con.setSize(300, 500);
         con.requestFocus();
