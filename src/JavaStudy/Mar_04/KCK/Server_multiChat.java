@@ -1,4 +1,4 @@
-package JavaStudy.Mar_03.KCK;
+package JavaStudy.Mar_04.KCK;
 
 import javax.swing.*;
 import java.awt.*;
@@ -13,14 +13,16 @@ import java.util.Date;
 
 // TODO: 2019-03-03 채팅을 치던 받던 getChat에 출력되야 함.
 
-public class Server_multiThread extends JFrame {
+public class Server_multiChat extends JFrame {
 
     char keyChar;
 
     ServerSocket serverSocket = null; // 서버 소켓
     Socket socket = null; // 클라이언트와 연결 소켓
 
-    public Server_multiThread() {
+    ArrayList<Socket> socketList = new ArrayList<>();
+
+    public Server_multiChat() {
         //GUI 부분
         Container con = getContentPane();
         setTitle("서버 채팅");
@@ -57,7 +59,7 @@ public class Server_multiThread extends JFrame {
         boolean bye = false;
 
 //        ArrayList<OutputStream> outputStreams = new ArrayList<>();
-        ArrayList<Socket> socketList = new ArrayList<>();
+
 
         try {
             serverSocket = new ServerSocket(9999);//서버 소켓 생성
@@ -72,8 +74,12 @@ public class Server_multiThread extends JFrame {
                         System.out.println("엔터키 입력");
                         Thread sender = null;
                         try {
-                            sender = new Thread(new Server_Sender(con, serverSocket, socket, getChat, input));
+//                            for (int i = 0; i < socketList.size(); i++) {
+                            sender = new Thread(new Server_Sender(con, serverSocket, socketList, getChat, input));
                             sender.start();
+//                            }
+//                            sender = new Thread(new Server_Sender(con, serverSocket, socket, getChat, input));
+//                            sender.start();
                         } catch (IOException e1) {
                             e1.printStackTrace();
                         }
@@ -82,9 +88,10 @@ public class Server_multiThread extends JFrame {
                 }
             });
 
-//            while (true) {//멀티 채팅용.......
+            while (true) {//멀티 채팅용.......
                 System.out.println("접속 대기중");
                 socket = serverSocket.accept(); // 클라이언트 연결 요청 대기
+                socketList.add(socket);
 //                outputStreams.add(socket.getOutputStream());// TODO: 2019-03-03 멀티 채팅
                 //현재 시간 추가
                 System.out.println(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 [" + socket.getInetAddress().getHostAddress() + "] 연결 됨.");
@@ -93,9 +100,7 @@ public class Server_multiThread extends JFrame {
 
                 Thread receiver = new Thread(new Server_Receiver(serverSocket, socket, getChat, input));
                 receiver.start();
-//            }
-
-
+            }
 
 
 //            getChat.append("채팅 종료\n");
@@ -131,9 +136,12 @@ public class Server_multiThread extends JFrame {
         Socket socket = null; // 클라이언트와 연결 소켓
         JTextArea getChat = null;
         JTextField input = null;
+        //        ArrayList<Socket> socketList = null;
+        String inputMessage;
 
         public Server_Receiver(ServerSocket serverSocket, Socket socket, JTextArea getChat, JTextField input) throws HeadlessException, IOException {
             this.serverSocket = serverSocket;
+//            this.socketList = socketList;
             this.socket = socket;
             this.getChat = getChat;
             this.input = input;
@@ -143,19 +151,34 @@ public class Server_multiThread extends JFrame {
         public void run() {
 
             try {
+//                for (int i = 0; i < socketList.size(); i++) {
+//                    if (socketList.get(i).getPort() == socket.getPort())
+//                        socketList.remove(i);
+//                    System.out.println("소켓 리스트");
+//                    System.out.println("소켓" + i);
+//                }
+
+                System.out.println("버퍼리더 시작");
                 BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream())); // 클라이언트로부터 입력 스트림
-                String inputMessage; // 클라이언트에서 받아온 문자열 저장용
+                // 클라이언트에서 받아온 문자열 저장용
                 while (true) {
                     inputMessage = in.readLine();//클라이언트에서 한 행의 문자열 읽음
                     if (inputMessage.equalsIgnoreCase("bye")) {//"bye" 대소문자 관계없이 읽어오면 종료
-                        getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라 : " + inputMessage + "\n");
+                        getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + inputMessage + "\n");
                         getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
                         getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라이언트 접속 종료\n");
                         System.out.println("클라이언트 접속 종료");
                         break;
                     }
-                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "클라 : " + inputMessage + "\n");
+                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + inputMessage + "\n");
                     getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
+
+                    for (int i = 0; i < socketList.size(); i++) {
+                        BufferedWriter out = new BufferedWriter(new OutputStreamWriter(socketList.get(i).getOutputStream()));
+                        out.write(inputMessage + "\n");
+                        out.flush();
+                    }
+
 
                 }
             } catch (IOException e) {
@@ -171,15 +194,16 @@ public class Server_multiThread extends JFrame {
         JTextArea getChat = null;
         JTextField input = null;
         String outputMessage;
-//        ArrayList<OutputStream> outputStreams = null;
+        //        ArrayList<OutputStream> outputStreams = null;
+        ArrayList<Socket> socketList = null;
         // TODO: 2019-03-03 아웃풋 스트림을 분리하여 멀티 채팅을 나눈다.
 
 //        Boolean sender_end = true;
 
-        public Server_Sender(Container con, ServerSocket serverSocket, Socket socket, JTextArea getChat, JTextField input) throws HeadlessException, IOException {
+        public Server_Sender(Container con, ServerSocket serverSocket, ArrayList<Socket> socketList, JTextArea getChat, JTextField input) throws HeadlessException, IOException {
             this.con = con;
             this.serverSocket = serverSocket;
-            this.socket = socket;
+            this.socketList = socketList;
             this.getChat = getChat;
             this.input = input;
         }
@@ -187,26 +211,36 @@ public class Server_multiThread extends JFrame {
         @Override
         public void run() {
             try {
-                BufferedWriter out = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream())); // 클라이언트로의 출력 스트림
-
-//                if (keyChar == '\n') {
                 outputMessage = input.getText();
-                if (outputMessage.equalsIgnoreCase("bye")) {
-                    out.write(outputMessage + "\n");
+                for (int i = 0; i < socketList.size(); i++) {
+                    BufferedWriter out = new BufferedWriter(new OutputStreamWriter(socketList.get(i).getOutputStream())); // 클라이언트로의 출력 스트림
+                    out.write("서버 : " + outputMessage + "\n");
                     out.flush();
-                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "서버 : " + outputMessage + "\n");
-                    getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
-                    input.setText("");
-//                            sender_end = false; // 반복문 탈출
-                    System.out.println("접속 종료");
-                } else {
-                    out.write(outputMessage + "\n");
-                    out.flush();
-                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "서버 : " + outputMessage + "\n");
-                    getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
-                    System.out.println(outputMessage);//클라이언트가 보낸 메시지 -> 화면에 출력
-                    input.setText("");
                 }
+                getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "서버 : " + outputMessage + "\n");
+                getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
+                System.out.println("서버 : " + outputMessage);//클라이언트가 보낸 메시지 -> 화면에 출력
+                input.setText("");
+//                if (keyChar == '\n') {
+
+//                if (outputMessage.equalsIgnoreCase("bye")) {
+//                    out.write(outputMessage + "\n");
+//                    out.flush();
+//                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "서버 : " + outputMessage + "\n");
+//                    getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
+//                    input.setText("");
+////                            sender_end = false; // 반복문 탈출
+//                    System.out.println("접속 종료");
+//                } else {
+//                    for (int i = 0; i < socketList.size(); i++) {
+//                        out.write(outputMessage + "\n");
+//                        out.flush();
+//                    }
+//                    getChat.append(new SimpleDateFormat("[HH:mm:ss] ").format(new Date()) + "서버 : " + outputMessage + "\n");
+//                    getChat.setCaretPosition(getChat.getDocument().getLength()); //스크롤 맨 아래로 해줌
+//                    System.out.println(outputMessage);//클라이언트가 보낸 메시지 -> 화면에 출력
+//                    input.setText("");
+//                }
             } catch (
                     IOException e) {
                 System.out.println("ERROR : " + e.getMessage());
@@ -215,6 +249,6 @@ public class Server_multiThread extends JFrame {
     }
 
     public static void main(String[] args) {
-        new Server_multiThread();
+        new Server_multiChat();
     }
 }

@@ -4,12 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/Fab_15_JDBC/PhoneBook.java" line="63" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="ver 1.00">
+    <list default="true" id="95be8a0b-51af-4277-9976-63c88035990f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Client_multiChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Server_multiChat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Client_multiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Client_multiThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Server_multiThread$Server_Receiver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Server_multiThread$Server_Receiver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Server_multiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Ex/JavaStudy/Mar_03/KCK/Server_multiThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,7 +66,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="JAVA" value="580" />
+          <entry key="JAVA" value="584" />
           <entry key="PLAIN_TEXT" value="19" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
@@ -84,8 +82,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="86897" />
-          <entry key="PLAIN_TEXT" value="85" />
+          <entry key="JAVA" value="87915" />
+          <entry key="PLAIN_TEXT" value="100" />
           <entry key="RegExp" value="11" />
           <entry key="SQL" value="73" />
         </counts>
@@ -96,64 +94,64 @@
     <favorites_list name="Java_Ex" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="438">
-                  <caret line="181" column="35" lean-forward="true" selection-start-line="181" selection-start-column="35" selection-end-line="181" selection-end-column="35" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#1713#2509#0" expanded="true" />
-                    <element signature="e#2508#2509#0" expanded="true" />
-                    <element signature="e#8543#8544#0" expanded="true" />
-                    <element signature="e#8583#8584#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="260">
-                  <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2193#2860#0" expanded="true" />
-                    <element signature="e#2859#2860#0" expanded="true" />
-                    <element signature="e#2941#2942#0" expanded="true" />
-                    <element signature="e#2980#2981#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-1014">
-                  <caret line="12" column="48" lean-forward="true" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2193#2868#0" expanded="true" />
-                    <element signature="e#2867#2868#0" expanded="true" />
-                    <element signature="e#4585#4586#0" expanded="true" />
-                    <element signature="e#4625#4626#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1713#2509#0" expanded="true" />
+                <element signature="e#2508#2509#0" expanded="true" />
+                <element signature="e#8543#8544#0" expanded="true" />
+                <element signature="e#8583#8584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Client_multiChat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+              <folding>
+                <element signature="e#2403#3246#0" expanded="true" />
+                <element signature="e#3245#3246#0" expanded="true" />
+                <element signature="e#4448#4449#0" expanded="true" />
+                <element signature="e#4486#4487#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Server_multiChat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="206" column="35" lean-forward="true" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2193#2860#0" expanded="true" />
+                <element signature="e#2859#2860#0" expanded="true" />
+                <element signature="e#2941#2942#0" expanded="true" />
+                <element signature="e#2980#2981#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -197,9 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/ContentPaneEx.java" />
-        <option value="$PROJECT_DIR$/src/Fab_GUI/Fab_12/FlowLayoutEx.java" />
-        <option value="$PROJECT_DIR$/src/Fab_13_JDBC/ConnectionTest.java" />
         <option value="$PROJECT_DIR$/src/Fab_13_JDBC/SelectTest.java" />
         <option value="$PROJECT_DIR$/src/Fab_13_JDBC/HREmpList.java" />
         <option value="$PROJECT_DIR$/src/Fab_13_JDBC/HRSalary.java" />
@@ -247,7 +242,10 @@
         <option value="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/ChattingGUI_Ex.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Server_multiThread.java" />
         <option value="$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Server_multiChat.java" />
+        <option value="$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Client_multiChat.java" />
       </list>
     </option>
   </component>
@@ -268,11 +266,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="321" />
-    <option name="y" value="331" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1927" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -435,19 +432,6 @@
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_24" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Jan_24" type="462c0819:PsiDirectoryNode" />
-              <item name="network" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -455,55 +439,7 @@
               <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_17" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_19" type="462c0819:PsiDirectoryNode" />
-              <item name="YSH" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
-              <item name="EYR" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
-              <item name="EYR" type="462c0819:PsiDirectoryNode" />
-              <item name="day6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Ex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="Fab_28" type="462c0819:PsiDirectoryNode" />
-              <item name="EYR" type="462c0819:PsiDirectoryNode" />
-              <item name="socket" type="462c0819:PsiDirectoryNode" />
+              <item name="KCK" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Ex" type="b2602c69:ProjectViewProjectNode" />
@@ -532,7 +468,7 @@
     <property name="SearchEverywhereHistoryKey" value="짝&#9;null&#9;null&#10;Buffered&#9;PSI&#9;JAVA://Jan_23.collection.io.bytestream.BufferedStreamEx&#10;BufferedWri&#9;FILE&#9;jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java&#10;console&#9;ACTION&#9;Highlight&#10;abstractEx&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551655259574" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551672287428" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -544,16 +480,16 @@
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Jan_23.collection.practice.extra02.problem04" />
+      <recent name="Jan_21.oop.casting" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Mar_04\KCK" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\NSH" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\YSH" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\EYR\day6" />
       <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_28\EYR" />
-      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\EYR" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="JavaStudy.Fab_17" />
@@ -562,9 +498,9 @@
       <recent name="Jan_23.collection.list" />
       <recent name="Jan_22.collection.list" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Jan_23.collection.practice.extra02.problem04" />
-      <recent name="Jan_21.oop.casting" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Fab_19\images" />
+      <recent name="C:\Users\k1212\bitacademy\Java_Ex\src\JavaStudy\Jan_29\khs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -579,20 +515,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client_multiThread">
-    <configuration name="CalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaStudy.Fab_17.CalApp" />
-      <module name="Java_Ex" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaStudy.Fab_17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Client_multiChat">
     <configuration name="ChattingGUI_Ex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaStudy.Mar_03.KCK.ChattingGUI_Ex" />
       <module name="Java_Ex" />
@@ -606,12 +529,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Jan_24.network.Client" />
+    <configuration name="Client_multiChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Mar_04.KCK.Client_multiChat" />
       <module name="Java_Ex" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Jan_24.network.*" />
+          <option name="PATTERN" value="JavaStudy.Mar_04.KCK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -625,6 +548,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaStudy.Mar_03.KCK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server_multiChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudy.Mar_04.KCK.Server_multiChat" />
+      <module name="Java_Ex" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStudy.Mar_04.KCK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -646,19 +582,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Server_multiThread" />
       <item itemvalue="Application.Client_multiThread" />
-      <item itemvalue="Application.CalApp" />
       <item itemvalue="Application.ChattingGUI_Ex" />
+      <item itemvalue="Application.Server_multiChat" />
+      <item itemvalue="Application.Client_multiChat" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client_multiChat" />
+        <item itemvalue="Application.Server_multiChat" />
         <item itemvalue="Application.Client_multiThread" />
         <item itemvalue="Application.Server_multiThread" />
         <item itemvalue="Application.ChattingGUI_Ex" />
-        <item itemvalue="Application.CalApp" />
-        <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -691,7 +627,7 @@
       <workItem from="1551170534062" duration="1644000" />
       <workItem from="1551225913553" duration="2440000" />
       <workItem from="1551338448332" duration="5745000" />
-      <workItem from="1551587688812" duration="17852000" />
+      <workItem from="1551587688812" duration="25922000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.00">
       <created>1547687621610</created>
@@ -1029,11 +965,18 @@
       <option name="project" value="LOCAL" />
       <updated>1550734693341</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="ver 1.00">
+      <created>1551656120290</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1551656120290</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="407957000" />
+    <option name="totallyTimeSpent" value="416027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1045,7 +988,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-1927" y="0" width="974" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.24930748" />
@@ -1054,11 +997,11 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" weight="0.32936507" />
       <window_info id="Capture Tool" order="5" />
-      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.29403606" />
+      <window_info content_ui="combo" x="500" y="67" width="536" height="690" id="Project" order="6" type="SLIDING" weight="0.23347548" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32844576" />
-      <window_info active="true" anchor="bottom" x="773" y="277" width="673" height="411" id="Run" order="2" sideWeight="0.4919463" type="WINDOWED" visible="true" weight="0.26061493" />
+      <window_info anchor="bottom" x="773" y="277" width="673" height="411" id="Run" order="2" sideWeight="0.4919463" type="WINDOWED" weight="0.26061493" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1107,20 +1050,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="ver 1.00" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Fab_15_JDBC/vo/PhoneBookVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fab_13_JDBC/bookshop/AuthorDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Fab_13_JDBC/bookshop/Bookshop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1444,10 +1373,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1713#2509#0" expanded="true" />
+            <element signature="e#2508#2509#0" expanded="true" />
+            <element signature="e#8543#8544#0" expanded="true" />
+            <element signature="e#8583#8584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Client_multiThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="29" />
+        <state relative-caret-position="76">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2193#2860#0" expanded="true" />
@@ -1458,16 +1401,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_03/KCK/Server_multiThread.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Server_multiChat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="181" column="35" lean-forward="true" selection-start-line="181" selection-start-column="35" selection-end-line="181" selection-end-column="35" />
+        <state relative-caret-position="336">
+          <caret line="206" column="35" lean-forward="true" selection-start-line="206" selection-start-column="35" selection-end-line="206" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaStudy/Mar_04/KCK/Client_multiChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1713#2509#0" expanded="true" />
-            <element signature="e#2508#2509#0" expanded="true" />
-            <element signature="e#8543#8544#0" expanded="true" />
-            <element signature="e#8583#8584#0" expanded="true" />
+            <element signature="e#2403#3246#0" expanded="true" />
+            <element signature="e#3245#3246#0" expanded="true" />
+            <element signature="e#4448#4449#0" expanded="true" />
+            <element signature="e#4486#4487#0" expanded="true" />
           </folding>
         </state>
       </provider>
