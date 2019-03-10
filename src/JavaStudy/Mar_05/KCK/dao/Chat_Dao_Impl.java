@@ -37,7 +37,25 @@ public class Chat_Dao_Impl extends BaseDao implements Chat_Dao {
 
     @Override
     public boolean insert(Chat_Vo vo) {
-        return false;
+        Connection conn = null;
+        PreparedStatement pstmt = null;
+
+        int insertedcount = 0;
+
+        try {
+            conn = getConnection();
+            String sql = "insert into chat_app values(seq_chat_app.nextval,?,?,?)";
+            pstmt = conn.prepareStatement(sql);
+            pstmt.setString(1, vo.getId());
+            pstmt.setString(2, vo.getPassword());
+            pstmt.setString(3, vo.getNickname());
+            insertedcount = pstmt.executeUpdate();
+
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+
+        return insertedcount == 1;
     }
 
     @Override
@@ -60,7 +78,7 @@ public class Chat_Dao_Impl extends BaseDao implements Chat_Dao {
             pstmt.setString(1, id);
             pstmt.setString(2, pw);
             rs = pstmt.executeQuery();
-            if(rs.next()) {
+            if (rs.next()) {
                 nickname = rs.getString(1);
             }
             System.out.println("닉네임 : " + nickname);
