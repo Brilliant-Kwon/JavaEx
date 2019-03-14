@@ -20,143 +20,143 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.JTextField;
 
-public class ServerEx extends JFrame{
+public class ServerEx extends JFrame {
 
-	Container con = null;
-	JTextField tf = new JTextField();
-	JTextArea ta = new JTextArea();
-	JButton bt = new JButton();
-	JScrollPane sp = null;
-	ArrayList<Socket> list = new ArrayList<Socket>();
-	InetAddress address;
+    Container con = null;
+    JTextField tf = new JTextField();
+    JTextArea ta = new JTextArea();
+    JButton bt = new JButton();
+    JScrollPane sp = null;
+    ArrayList<Socket> list = new ArrayList<>();
+    InetAddress address;
 
-	public static void main(String[] args) {
-		new ServerEx();
-	}
-	//		BufferedReader in = null;
-	//		BufferedReader stin = null;
-	//		BufferedWriter out = null;
-	ServerSocket listener = null;
-	Socket socket = null;
-	
+    public static void main(String[] args) {
+        new ServerEx();
+    }
 
-	public ServerEx() {
-
-		setTitle("서버 채팅창");
-		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		con = getContentPane();
-		setSize(300,440);
-		con.setSize(300,440);
-
-		con.setBackground(Color.white);
-		setVisible(true);
-
-		setLayout(null);
-
-		sp = new JScrollPane(ta);
-		sp.setSize(265,300);
-		sp.setLocation(10,10);
-
-		tf.setSize(200,70);
-		tf.setLocation(10,320);
-
-		bt = new JButton("전송");
-		bt.setSize(60,40);
-		bt.setLocation(215,335);
-
-		//		con.add(ta);
-		con.add(tf);
-		con.add(bt);
-		con.add(sp);
-
-		
-
-		
-		try {
-			// 서버 소켓 생성
-			listener = new ServerSocket(9999);
-//			while(true) {
-			// 클라이언트로부터 연결 요청 대기
-			ta.append("<<연결을 기다립니다>>"+"\n");
-			//			System.out.println("<<연결을 기다립니다>>");
+    ServerSocket listener = null;
+    Socket socket = null;
 
 
-			socket = listener.accept();
-//			al.add(socket);
-			ta.append(" -------------------------연결됨-------------------------"+"\n");
-			address = socket.getInetAddress();
-			ta.append(address+"의 주소가 연결 되었습니다.\n");
-			
-			// 접속 클라이언트 arraylist에 추가
-//			Socket socket = new Socket(this);
-			
-			
+    public ServerEx() {
 
+        setTitle("서버 채팅창");
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        con = getContentPane();
+        setSize(300, 440);
+        con.setSize(300, 440);
 
-			Thread recThread = new Thread(new ReceiveThread(socket,con,tf,ta,bt,sp));
+        con.setBackground(Color.white);
+        setVisible(true);
 
-			//			Thread sendThread = new Thread(new SendThread(socket));
+        setLayout(null);
 
+        sp = new JScrollPane(ta);
+        sp.setSize(265, 300);
+        sp.setLocation(10, 10);
 
-			recThread.start();
-			//			sendThread.start();
+        tf.setSize(200, 70);
+        tf.setLocation(10, 320);
 
-		}catch(IOException e) {
-			System.err.println("Error:" + e.getMessage());
-		}
-		
+        bt = new JButton("전송");
+        bt.setSize(60, 40);
+        bt.setLocation(215, 335);
 
-		
-		bt.addActionListener(new ActionListener() {
+        con.add(tf);
+        con.add(bt);
+        con.add(sp);
 
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				if(e.getSource()==bt){//전송버튼 눌렀을 경우
-					//메세지 입력없이 전송버튼만 눌렀을 경우
-					if(tf.getText().equals("")){
-						return;
-					}
-
-					Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp));
-					sendThread.start();
-//					tf.requestFocus();
-					
-				}
-
-
-			}
-		});
-
-		tf.addKeyListener(new KeyListener() {
-
-			@Override
-			public void keyTyped(KeyEvent e) {
-				// TODO Auto-generated method stub
-
-			}
-
-			@Override
-			public void keyReleased(KeyEvent ke) {
-				if(ke.getKeyChar()==KeyEvent.VK_ENTER) {
-					if(tf.getText().equals("")){
+        bt.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                if (e.getSource() == bt) {//전송버튼 눌렀을 경우
+                    //메세지 입력없이 전송버튼만 눌렀을 경우
+                    if (tf.getText().equals("")) {
                         return;
-              }
-					//					System.out.println("엔터");
-					//					System.out.println("메인 tf : "+tf.getText());
-					Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp));
-					sendThread.start();
+                    }
+
+                    String message = tf.getText();
+                    ta.append(message +
+                            "\n");
+                    for (int i = 0; i < list.size(); i++) {
+                        Thread sendThread = new Thread(new SendThread(list.get(i), con, tf, ta, bt, sp, message));
+                        sendThread.start();
 //					tf.requestFocus();
-				}
+                    }
+                    System.out.println("텍스트 초기화");
+                    tf.setText("");
 
-			}
+                }
 
-			@Override
-			public void keyPressed(KeyEvent e) {
-				// TODO Auto-generated method stub
 
-			}
-		});
-		
+            }
+        });
+
+        tf.addKeyListener(new KeyListener() {
+
+            @Override
+            public void keyTyped(KeyEvent e) {
+                // TODO Auto-generated method stub
+
+            }
+
+            @Override
+            public void keyReleased(KeyEvent ke) {
+                if (ke.getKeyChar() == KeyEvent.VK_ENTER) {
+                    if (tf.getText().equals("")) {
+                        return;
+                    }
+                    String message = tf.getText();
+                    ta.append(message +
+                            "\n");
+                    for (int i = 0; i < list.size(); i++) {
+                        Thread sendThread = new Thread(new SendThread(list.get(i), con, tf, ta, bt, sp, message));
+                        sendThread.start();
+//					tf.requestFocus();
+                    }
+                    System.out.println("텍스트 초기화");
+                    tf.setText("");
+                }
+
+            }
+
+            @Override
+            public void keyPressed(KeyEvent e) {
+                // TODO Auto-generated method stub
+
+            }
+        });
+
+        try {
+            // 서버 소켓 생성
+            listener = new ServerSocket(9999);
+            while (true) {
+                // 클라이언트로부터 연결 요청 대기
+                ta.append("<<연결을 기다립니다>>" + "\n");
+                //			System.out.println("<<연결을 기다립니다>>");
+
+                socket = listener.accept();
+                list.add(socket);
+                ta.append(" -------------------------연결됨-------------------------" + "\n");
+                address = socket.getInetAddress();
+                ta.append(address + "의 주소가 연결 되었습니다.\n");
+
+                // 접속 클라이언트 arraylist에 추가
+//			Socket socket = new Socket(this);
+
+                Thread recThread = new Thread(new ReceiveThread(socket, con, tf, ta, bt, sp));
+
+                //			Thread sendThread = new Thread(new SendThread(socket));
+
+
+                recThread.start();
+                //			sendThread.start();
+            }
+        } catch (IOException e) {
+            System.err.println("Error:" + e.getMessage());
+        }
+
+
 //		tf.addFocusListener(new FocusAdapter() {
 //			public void focusGained(FocusEvent e) {
 //			tf.setText("");
@@ -164,7 +164,7 @@ public class ServerEx extends JFrame{
 //			
 //			
 //		});
-	}
+    }
 }
 
 

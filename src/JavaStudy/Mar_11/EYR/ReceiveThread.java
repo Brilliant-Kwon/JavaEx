@@ -60,33 +60,17 @@ public class ReceiveThread extends JFrame implements Runnable{
 			//클라이언트로부터의 입력 스트림
 			System.out.println("리시버 시작");
 			in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-			// 키보드로부터의 입력 스트림
-			//		stin = new BufferedReader(new InputStreamReader(System.in));
-			// 클라이언트로의 출력 스트림
-			//		out = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
 			String inputMessage;
 			while(true) {
 				// 클라이언트에서 한행의 문자열 읽음
-
 				inputMessage = in.readLine();
 				if(inputMessage !=null) {
 					ta.append(inputMessage + "\n");
 				}else{
 					break;
 				}
-				//				ta.setText(ta.getText()+"\n"+inputMessage);
-				// 클라이언트가 "bye"를 보내면 연결 종료
 				if(inputMessage.equalsIgnoreCase("bye"))
 					break;
-				// 클라이언트가 보낸 메세지 화면에 출력
-
-				//				System.out.println(">>" + inputMessage + "\n");
-
-				// 키보드에서 한 행의 문자열 읽음
-				//			String outputMessage = stin.readLine();
-				// 키보드에서 읽은 문자열 전송
-				//			out.write("서버>" + outputMessage + "\n");
-				//			out.flush();
 
 				sp.getVerticalScrollBar().setValue(sp.getVerticalScrollBar().getMaximum());
 			}

@@ -55,16 +55,9 @@ public class ClientEx extends JFrame{
 		bt.setSize(60,40);
 		bt.setLocation(215,335);
 
-		//		con.add(ta);
 		con.add(tf);
 		con.add(bt);
 		con.add(sp);
-
-		//		
-		//tf에 엔터키 입력받는 리스너 붙혀주고 
-		//엔터키를 누를때마다
-		//Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp));
-		//sendThread.start();
 
 
 		try {
@@ -93,9 +86,15 @@ public class ClientEx extends JFrame{
 						return;
 					}
 
-					Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp));
+					String message = tf.getText();
+					ta.append(message+
+							"\n");
+
+					Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp, message));
 					sendThread.start();
-//					tf.requestFocus();
+
+					System.out.println("텍스트 초기화");
+					tf.setText("");
 
 				}
 
@@ -117,15 +116,16 @@ public class ClientEx extends JFrame{
 					if(tf.getText().equals("")){
 						return;
 					}else {
-						//					System.out.println("엔터");
-						//					System.out.println("메인 tf : "+tf.getText());
-						Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp));
-						sendThread.start();
-//						tf.setText("");
 
-//						tf.requestFocus();
+						String message = tf.getText();
+						ta.append(message+
+								"\n");
+						Thread sendThread = new Thread(new SendThread(socket, con, tf, ta ,bt, sp, message));
+						sendThread.start();
 					}
 
+					System.out.println("텍스트 초기화");
+					tf.setText("");
 				}
 
 			}
@@ -136,51 +136,5 @@ public class ClientEx extends JFrame{
 
 			}
 		});
-//		tf.addFocusListener(new FocusAdapter() {
-//			public void focusGained(FocusEvent e) {
-//				tf.setText("");
-//			}
-//
-//
-//		});
 	}
 }
-//			// 서버로부터의 입력 스트림
-//			in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
-//			// 키보드로부터의 입력 스트림
-//			stin = new BufferedReader(new InputStreamReader(System.in));
-//			// 서버로의 출력 스트림
-//			out = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream()));
-//			
-//			String outputMessage;
-//			while(true) {
-//				// 키보드에서 한 행의 문자열 읽음
-//				outputMessage = stin.readLine();
-//				// "bye"가 입력되면 메세지 전송 후 연결 종료
-//				if(outputMessage.equalsIgnoreCase("bye")) {
-//					out.write(outputMessage);
-//					out.flush();
-//					break;
-//				}
-//				// 키보드에서 읽은 문자열 전송
-//				out.write("클라이언트>" + outputMessage + "\n");
-//				out.flush();
-//				// 서버에서 한 행의 문자열 읽음
-//				String inputMessage = in.readLine();
-//				// 서버가 보낸 메세지 화면에 출력
-//				System.out.println("서버>" + inputMessage + "\n");
-//			}
-//		}catch(IOException e) {
-//			System.err.println("Error: " + e.getMessage());
-//		}finally {
-//			try {
-//				// 클라이언트 소켓 닫기 
-//				socket.close();
-//			}catch(IOException e) {
-//				System.err.println("Error: " + e.getMessage());
-//			}
-//		}
-//
-//	}
-//
-//}
